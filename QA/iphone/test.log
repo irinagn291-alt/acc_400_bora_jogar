@@ -1,0 +1,646 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar.xcodeproj -scheme Courtyard73 -configuration Practice -destination id=286A7905-5758-4E6B-87AF-AA3634D9AA11 -parallel-testing-enabled NO -derivedDataPath /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData -resultBundlePath /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/QA/iphone/Result-20261115-180638.xcresult CODE_SIGNING_ALLOWED=NO ARCHS=arm64 test
+
+Build settings from command line:
+    ARCHS = arm64
+    CODE_SIGNING_ALLOWED = NO
+
+Writing result bundle at path:
+	/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/QA/iphone/Result-20261115-180638.xcresult
+
+ComputePackagePrebuildTargetDependencyGraph
+
+Prepare packages
+
+CreateBuildRequest
+
+SendProjectDescription
+
+CreateBuildOperation
+
+ComputeTargetDependencyGraph
+note: Building targets in dependency order
+note: Target dependency graph (3 targets)
+    Target 'FieldProof73' in project 'BoraJogar'
+        ➜ Explicit dependency on target 'Courtyard73' in project 'BoraJogar'
+    Target 'Courtyard73' in project 'BoraJogar'
+        ➜ Explicit dependency on target 'Touchline73' in project 'BoraJogar'
+    Target 'Touchline73' in project 'BoraJogar' (no dependencies)
+
+GatherProvisioningInputs
+
+CreateBuildDescription
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc --version
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/xcstringstool compile --dry-run --output-directory /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Resources/Localizable.xcstrings
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/actool --print-asset-tag-combinations --output-format xml1 /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Resources/FieldMark.xcassets
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/xcstringstool compile --dry-run --output-directory /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Touchline73.build /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Resources/Localizable.xcstrings
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/xcstringstool compile --dry-run --output-directory /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Resources/Localizable.xcstrings
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -v -E -dM -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk -x c -c /dev/null
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/xcstringstool compile --dry-run --output-directory /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Resources/InfoPlist.xcstrings
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld -version_details
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/actool --version --output-format xml1
+
+Build description signature: ae5125130b29c120eb81e8de27137180
+Build description path: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/XCBuildData/ae5125130b29c120eb81e8de27137180.xcbuilddata
+ClangStatCache /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang-stat-cache /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/SDKStatCaches.noindex/iphonesimulator27.2-24B8118-9aa026f88bf9ed31cff8761912ac5bd1cc78df9d8a9de6526dea716b1c70fd8e.sdkstatcache
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar.xcodeproj
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang-stat-cache /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk -o /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/SDKStatCaches.noindex/iphonesimulator27.2-24B8118-9aa026f88bf9ed31cff8761912ac5bd1cc78df9d8a9de6526dea716b1c70fd8e.sdkstatcache
+
+SwiftDriver Courtyard73 normal arm64 com.apple.xcode.tools.swift.compiler (in target 'Courtyard73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-SwiftDriver -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name Courtyard73 -Onone @/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/BoraJogar.SwiftFileList -DDEBUG -enable-bare-slash-regex -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk -target arm64-apple-ios17.2-simulator -g -module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Index.noindex/DataStore -swift-version 5 -I /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -F /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -emit-localized-strings -emit-localized-strings-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64 -c -j18 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/SDKStatCaches.noindex/iphonesimulator27.2-24B8118-9aa026f88bf9ed31cff8761912ac5bd1cc78df9d8a9de6526dea716b1c70fd8e.sdkstatcache -output-file-map /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73-OutputFileMap.json -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/SDKExplicitPrecompiledModules -emit-dependencies -emit-module -emit-module-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73.swiftmodule -serialize-diagnostics -dependency-scan-serialize-diagnostics-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73-dependency-scan.dia -validate-clang-modules-once -clang-build-session-file /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -fmodules-prune-interval\=86400 -Xcc -fmodules-prune-after\=345600 -emit-const-values -const-gather-protocols-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73_const_extract_protocols.json -Xcc -iquote -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar-generated-files.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar-own-target-headers.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar-all-target-headers.hmap -Xcc -iquote -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar-project-headers.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/include -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/DerivedSources-normal/arm64 -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/DerivedSources/arm64 -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/DerivedSources -emit-objc-header -emit-objc-header-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73-Swift.h -working-directory /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar -experimental-emit-module-separately -disable-cmo
+
+SwiftEmitModule normal arm64 Emitting\ module\ for\ Courtyard73 (in target 'Courtyard73' from project 'BoraJogar')
+
+SwiftCompile normal arm64 (in target 'Courtyard73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    
+
+SwiftDriverJobDiscovery normal arm64 Emitting module for Courtyard73 (in target 'Courtyard73' from project 'BoraJogar')
+
+SwiftDriver\ Compilation\ Requirements Courtyard73 normal arm64 com.apple.xcode.tools.swift.compiler (in target 'Courtyard73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-Swift-Compilation-Requirements -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name Courtyard73 -Onone @/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/BoraJogar.SwiftFileList -DDEBUG -enable-bare-slash-regex -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk -target arm64-apple-ios17.2-simulator -g -module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Index.noindex/DataStore -swift-version 5 -I /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -F /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -emit-localized-strings -emit-localized-strings-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64 -c -j18 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/SDKStatCaches.noindex/iphonesimulator27.2-24B8118-9aa026f88bf9ed31cff8761912ac5bd1cc78df9d8a9de6526dea716b1c70fd8e.sdkstatcache -output-file-map /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73-OutputFileMap.json -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/SDKExplicitPrecompiledModules -emit-dependencies -emit-module -emit-module-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73.swiftmodule -serialize-diagnostics -dependency-scan-serialize-diagnostics-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73-dependency-scan.dia -validate-clang-modules-once -clang-build-session-file /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -fmodules-prune-interval\=86400 -Xcc -fmodules-prune-after\=345600 -emit-const-values -const-gather-protocols-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73_const_extract_protocols.json -Xcc -iquote -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar-generated-files.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar-own-target-headers.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar-all-target-headers.hmap -Xcc -iquote -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar-project-headers.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/include -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/DerivedSources-normal/arm64 -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/DerivedSources/arm64 -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/DerivedSources -emit-objc-header -emit-objc-header-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73-Swift.h -working-directory /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar -experimental-emit-module-separately -disable-cmo
+
+Copy /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Courtyard73.swiftmodule/arm64-apple-ios-simulator.abi.json /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73.abi.json (in target 'Courtyard73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-unsigned-binaries -strip-deterministic -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks -rename /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73.abi.json /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Courtyard73.swiftmodule/arm64-apple-ios-simulator.abi.json
+
+Copy /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Courtyard73.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73.swiftsourceinfo (in target 'Courtyard73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-unsigned-binaries -strip-deterministic -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks -rename /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73.swiftsourceinfo /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Courtyard73.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo
+
+SwiftDriver FieldProof73 normal arm64 com.apple.xcode.tools.swift.compiler (in target 'FieldProof73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-SwiftDriver -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name FieldProof73 -Onone @/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73.SwiftFileList -DDEBUG -module-alias Testing\=_Testing_Unavailable -plugin-path /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing -enable-bare-slash-regex -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk -target arm64-apple-ios17.2-simulator -g -module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Index.noindex/DataStore -swift-version 5 -I /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -Isystem /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib -F /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -F /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks -F /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk/Developer/Library/Frameworks -emit-localized-strings -emit-localized-strings-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64 -c -j18 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/SDKStatCaches.noindex/iphonesimulator27.2-24B8118-9aa026f88bf9ed31cff8761912ac5bd1cc78df9d8a9de6526dea716b1c70fd8e.sdkstatcache -output-file-map /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73-OutputFileMap.json -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/SDKExplicitPrecompiledModules -emit-dependencies -emit-module -emit-module-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73.swiftmodule -serialize-diagnostics -dependency-scan-serialize-diagnostics-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73-dependency-scan.dia -validate-clang-modules-once -clang-build-session-file /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -fmodules-prune-interval\=86400 -Xcc -fmodules-prune-after\=345600 -emit-const-values -const-gather-protocols-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73_const_extract_protocols.json -Xcc -iquote -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/FieldProof73-generated-files.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/FieldProof73-own-target-headers.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/FieldProof73-all-target-headers.hmap -Xcc -iquote -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/FieldProof73-project-headers.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/include -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/DerivedSources-normal/arm64 -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/DerivedSources/arm64 -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/DerivedSources -emit-objc-header -emit-objc-header-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73-Swift.h -working-directory /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar -experimental-emit-module-separately -disable-cmo
+
+SwiftCompile normal arm64 Compiling\ Panels.swift /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Sources/Panels.swift (in target 'Courtyard73' from project 'BoraJogar')
+
+SwiftCompile normal arm64 /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Sources/Panels.swift (in target 'Courtyard73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-SwiftPerFileCompile Panels.swift
+
+SwiftEmitModule normal arm64 Emitting\ module\ for\ FieldProof73 (in target 'FieldProof73' from project 'BoraJogar')
+
+SwiftCompile normal arm64 (in target 'FieldProof73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    
+
+SwiftCompile normal arm64 Compiling\ Proof.swift /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Checks/Proof.swift (in target 'FieldProof73' from project 'BoraJogar')
+
+SwiftCompile normal arm64 /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Checks/Proof.swift (in target 'FieldProof73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-SwiftPerFileCompile Proof.swift
+
+SwiftDriverJobDiscovery normal arm64 Emitting module for FieldProof73 (in target 'FieldProof73' from project 'BoraJogar')
+
+SwiftDriver\ Compilation\ Requirements FieldProof73 normal arm64 com.apple.xcode.tools.swift.compiler (in target 'FieldProof73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-Swift-Compilation-Requirements -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name FieldProof73 -Onone @/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73.SwiftFileList -DDEBUG -module-alias Testing\=_Testing_Unavailable -plugin-path /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing -enable-bare-slash-regex -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk -target arm64-apple-ios17.2-simulator -g -module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Index.noindex/DataStore -swift-version 5 -I /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -Isystem /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib -F /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -F /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks -F /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk/Developer/Library/Frameworks -emit-localized-strings -emit-localized-strings-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64 -c -j18 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/SDKStatCaches.noindex/iphonesimulator27.2-24B8118-9aa026f88bf9ed31cff8761912ac5bd1cc78df9d8a9de6526dea716b1c70fd8e.sdkstatcache -output-file-map /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73-OutputFileMap.json -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/SDKExplicitPrecompiledModules -emit-dependencies -emit-module -emit-module-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73.swiftmodule -serialize-diagnostics -dependency-scan-serialize-diagnostics-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73-dependency-scan.dia -validate-clang-modules-once -clang-build-session-file /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -fmodules-prune-interval\=86400 -Xcc -fmodules-prune-after\=345600 -emit-const-values -const-gather-protocols-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73_const_extract_protocols.json -Xcc -iquote -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/FieldProof73-generated-files.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/FieldProof73-own-target-headers.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/FieldProof73-all-target-headers.hmap -Xcc -iquote -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/FieldProof73-project-headers.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/include -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/DerivedSources-normal/arm64 -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/DerivedSources/arm64 -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/DerivedSources -emit-objc-header -emit-objc-header-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73-Swift.h -working-directory /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar -experimental-emit-module-separately -disable-cmo
+
+SwiftDriverJobDiscovery normal arm64 Compiling Proof.swift (in target 'FieldProof73' from project 'BoraJogar')
+
+SwiftDriver\ Compilation FieldProof73 normal arm64 com.apple.xcode.tools.swift.compiler (in target 'FieldProof73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-Swift-Compilation -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name FieldProof73 -Onone @/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73.SwiftFileList -DDEBUG -module-alias Testing\=_Testing_Unavailable -plugin-path /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing -enable-bare-slash-regex -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk -target arm64-apple-ios17.2-simulator -g -module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Index.noindex/DataStore -swift-version 5 -I /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -Isystem /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib -F /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -F /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks -F /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk/Developer/Library/Frameworks -emit-localized-strings -emit-localized-strings-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64 -c -j18 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/SDKStatCaches.noindex/iphonesimulator27.2-24B8118-9aa026f88bf9ed31cff8761912ac5bd1cc78df9d8a9de6526dea716b1c70fd8e.sdkstatcache -output-file-map /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73-OutputFileMap.json -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/SDKExplicitPrecompiledModules -emit-dependencies -emit-module -emit-module-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73.swiftmodule -serialize-diagnostics -dependency-scan-serialize-diagnostics-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73-dependency-scan.dia -validate-clang-modules-once -clang-build-session-file /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -fmodules-prune-interval\=86400 -Xcc -fmodules-prune-after\=345600 -emit-const-values -const-gather-protocols-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73_const_extract_protocols.json -Xcc -iquote -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/FieldProof73-generated-files.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/FieldProof73-own-target-headers.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/FieldProof73-all-target-headers.hmap -Xcc -iquote -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/FieldProof73-project-headers.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/include -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/DerivedSources-normal/arm64 -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/DerivedSources/arm64 -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/DerivedSources -emit-objc-header -emit-objc-header-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73-Swift.h -working-directory /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar -experimental-emit-module-separately -disable-cmo
+
+SwiftDriverJobDiscovery normal arm64 Compiling Panels.swift (in target 'Courtyard73' from project 'BoraJogar')
+
+SwiftDriver\ Compilation Courtyard73 normal arm64 com.apple.xcode.tools.swift.compiler (in target 'Courtyard73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-Swift-Compilation -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name Courtyard73 -Onone @/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/BoraJogar.SwiftFileList -DDEBUG -enable-bare-slash-regex -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk -target arm64-apple-ios17.2-simulator -g -module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Index.noindex/DataStore -swift-version 5 -I /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -F /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -emit-localized-strings -emit-localized-strings-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64 -c -j18 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/SDKStatCaches.noindex/iphonesimulator27.2-24B8118-9aa026f88bf9ed31cff8761912ac5bd1cc78df9d8a9de6526dea716b1c70fd8e.sdkstatcache -output-file-map /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73-OutputFileMap.json -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/SDKExplicitPrecompiledModules -emit-dependencies -emit-module -emit-module-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73.swiftmodule -serialize-diagnostics -dependency-scan-serialize-diagnostics-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73-dependency-scan.dia -validate-clang-modules-once -clang-build-session-file /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -fmodules-prune-interval\=86400 -Xcc -fmodules-prune-after\=345600 -emit-const-values -const-gather-protocols-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73_const_extract_protocols.json -Xcc -iquote -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar-generated-files.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar-own-target-headers.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar-all-target-headers.hmap -Xcc -iquote -Xcc /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar-project-headers.hmap -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/include -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/DerivedSources-normal/arm64 -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/DerivedSources/arm64 -Xcc -I/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/DerivedSources -emit-objc-header -emit-objc-header-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73-Swift.h -working-directory /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar -experimental-emit-module-separately -disable-cmo
+
+ProcessInfoPlistFile /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Touchline73.appex/Info.plist /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Touchline.plist (in target 'Touchline73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-infoPlistUtility /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Touchline.plist -producttype com.apple.product-type.app-extension -expandbuildsettings -format binary -platform iphonesimulator -o /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Touchline73.appex/Info.plist
+
+Ld /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Touchline73.appex/Touchline73.debug.dylib normal (in target 'Touchline73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target arm64-apple-ios17.2-simulator -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk -Os -Xlinker -no_warn_duplicate_libraries -L/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/EagerLinkingTBDs/Practice-iphonesimulator -L/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -F/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/EagerLinkingTBDs/Practice-iphonesimulator -F/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -filelist /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Touchline73.build/Objects-normal/arm64/Touchline73.LinkFileList -install_name @rpath/Touchline73.debug.dylib -Xlinker -rpath -Xlinker /usr/lib/swift -Xlinker -rpath -Xlinker @executable_path/Frameworks -Xlinker -rpath -Xlinker @executable_path/../../Frameworks -Xlinker -dead_strip -Xlinker -object_path_lto -Xlinker /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Touchline73.build/Objects-normal/arm64/Touchline73_lto.o -rdynamic -Xlinker -objc_abi_version -Xlinker 2 -Xlinker -dependency_info -Xlinker /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Touchline73.build/Objects-normal/arm64/Touchline73_dependency_info.dat -fapplication-extension -fobjc-link-runtime -L/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator -L/usr/lib/swift -Xlinker -add_ast_path -Xlinker /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Touchline73.build/Objects-normal/arm64/Touchline73.swiftmodule -Xlinker -alias -Xlinker _NSExtensionMain -Xlinker ___debug_main_executable_dylib_entry_point -o /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Touchline73.appex/Touchline73.debug.dylib
+
+ConstructStubExecutorLinkFileList /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Touchline73.build/Touchline73-ExecutorLinkFileList-normal-arm64.txt (in target 'Touchline73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    construct-stub-executor-link-file-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Touchline73.appex/Touchline73.debug.dylib /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/libPreviewsJITStubExecutor_no_swift_entry_point.a /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/libPreviewsJITStubExecutor.a --output /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Touchline73.build/Touchline73-ExecutorLinkFileList-normal-arm64.txt
+note: Using stub executor library with Swift entry point. (in target 'Touchline73' from project 'BoraJogar')
+
+Ld /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Touchline73.appex/Touchline73 normal (in target 'Touchline73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target arm64-apple-ios17.2-simulator -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk -Os -Xlinker -no_warn_duplicate_libraries -L/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -F/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -Xlinker -rpath -Xlinker @executable_path -Xlinker -rpath -Xlinker @executable_path/Frameworks -Xlinker -rpath -Xlinker @executable_path/../../Frameworks -rdynamic -Xlinker -objc_abi_version -Xlinker 2 -e ___debug_blank_executor_main -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __debug_dylib -Xlinker /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Touchline73.build/Touchline73-DebugDylibPath-normal-arm64.txt -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __debug_entry -Xlinker /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Touchline73.build/Touchline73-DebugEntryPoint-normal-arm64.txt -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __debug_instlnm -Xlinker /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Touchline73.build/Touchline73-DebugDylibInstallName-normal-arm64.txt -Xlinker -filelist -Xlinker /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Touchline73.build/Touchline73-ExecutorLinkFileList-normal-arm64.txt /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Touchline73.appex/Touchline73.debug.dylib -o /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Touchline73.appex/Touchline73
+
+ExtractAppIntentsMetadata (in target 'Touchline73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/appintentsmetadataprocessor --toolchain-dir /var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v27.2.47.0.L9KO4x/Metal.xctoolchain --module-name Touchline73 --sdk-root /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk --xcode-version 27B52 --platform-family iOS --deployment-target 17.2 --bundle-identifier org.courtyard.borajogar.a73f2.touchline --output /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Touchline73.appex --target-triple arm64-apple-ios17.2-simulator --binary-file /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Touchline73.appex/Touchline73 --dependency-file /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Touchline73.build/Objects-normal/arm64/Touchline73_dependency_info.dat --stringsdata-file /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Touchline73.build/Objects-normal/arm64/ExtractedAppShortcutsMetadata.stringsdata --source-file-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Touchline73.build/Objects-normal/arm64/Touchline73.SwiftFileList --metadata-file-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Touchline73.build/Touchline73.DependencyMetadataFileList --static-metadata-file-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Touchline73.build/Touchline73.DependencyStaticMetadataFileList --swift-const-vals-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Touchline73.build/Objects-normal/arm64/Touchline73.SwiftConstValuesFileList --compile-time-extraction --deployment-aware-processing --no-app-shortcuts-localization
+2026-11-15 18:07:05.479 appintentsmetadataprocessor[99441:8298900] Starting App Intents metadata extraction
+2026-11-15 18:07:05.545 appintentsmetadataprocessor[99441:8298900] Writing Metadata.appintents
+2026-11-15 18:07:05.545 appintentsmetadataprocessor[99441:8298900] Metadata root: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Touchline73.appex/Metadata.appintents
+
+Ld /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/BoraJogar.debug.dylib normal (in target 'Courtyard73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target arm64-apple-ios17.2-simulator -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk -Os -Xlinker -no_warn_duplicate_libraries -L/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/EagerLinkingTBDs/Practice-iphonesimulator -L/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -F/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/EagerLinkingTBDs/Practice-iphonesimulator -F/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -filelist /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/BoraJogar.LinkFileList -install_name @rpath/BoraJogar.debug.dylib -Xlinker -rpath -Xlinker /usr/lib/swift -Xlinker -rpath -Xlinker @executable_path/Frameworks -Xlinker -dead_strip -Xlinker -object_path_lto -Xlinker /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/BoraJogar_lto.o -rdynamic -Xlinker -objc_abi_version -Xlinker 2 -Xlinker -dependency_info -Xlinker /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/BoraJogar_dependency_info.dat -fobjc-link-runtime -L/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator -L/usr/lib/swift -Xlinker -add_ast_path -Xlinker /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/Courtyard73.swiftmodule -Xlinker -alias -Xlinker _main -Xlinker ___debug_main_executable_dylib_entry_point -o /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/BoraJogar.debug.dylib
+
+ConstructStubExecutorLinkFileList /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar-ExecutorLinkFileList-normal-arm64.txt (in target 'Courtyard73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    construct-stub-executor-link-file-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/BoraJogar.debug.dylib /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/libPreviewsJITStubExecutor_no_swift_entry_point.a /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/libPreviewsJITStubExecutor.a --output /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar-ExecutorLinkFileList-normal-arm64.txt
+note: Using stub executor library with Swift entry point. (in target 'Courtyard73' from project 'BoraJogar')
+
+Ld /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/BoraJogar normal (in target 'Courtyard73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target arm64-apple-ios17.2-simulator -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk -Os -Xlinker -no_warn_duplicate_libraries -L/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -F/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -Xlinker -rpath -Xlinker @executable_path -Xlinker -rpath -Xlinker @executable_path/Frameworks -rdynamic -Xlinker -objc_abi_version -Xlinker 2 -e ___debug_blank_executor_main -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __debug_dylib -Xlinker /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar-DebugDylibPath-normal-arm64.txt -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __debug_instlnm -Xlinker /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar-DebugDylibInstallName-normal-arm64.txt -Xlinker -filelist -Xlinker /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar-ExecutorLinkFileList-normal-arm64.txt /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/BoraJogar.debug.dylib -o /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/BoraJogar
+
+Copy /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/PlugIns/Touchline73.appex /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Touchline73.appex (in target 'Courtyard73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -exclude Headers -exclude PrivateHeaders -exclude Modules -exclude \*.tbd -strip-unsigned-binaries -strip-deterministic -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks -remove-static-executable /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Touchline73.appex /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/PlugIns
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -D -S -no_atom_info /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Touchline73.appex/Touchline73 -o /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/PlugIns/Touchline73.appex/Touchline73/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -D -S -no_atom_info /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Touchline73.appex/Touchline73.debug.dylib -o /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/PlugIns/Touchline73.appex/Touchline73.debug.dylib/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -D -S -no_atom_info /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/Touchline73.appex/__preview.dylib -o /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/PlugIns/Touchline73.appex/__preview.dylib
+ProcessInfoPlistFile /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/Info.plist /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Info.plist (in target 'Courtyard73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-infoPlistUtility /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Info.plist -producttype com.apple.product-type.application -genpkginfo /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/assetcatalog_generated_info.plist -scanforprivacyfile /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/PlugIns/Touchline73.appex -o /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/Info.plist
+
+ExtractAppIntentsMetadata (in target 'Courtyard73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/appintentsmetadataprocessor --toolchain-dir /var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v27.2.47.0.L9KO4x/Metal.xctoolchain --module-name Courtyard73 --sdk-root /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk --xcode-version 27B52 --platform-family iOS --deployment-target 17.2 --bundle-identifier org.courtyard.borajogar.a73f2 --output /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app --target-triple arm64-apple-ios17.2-simulator --binary-file /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/BoraJogar --dependency-file /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/BoraJogar_dependency_info.dat --stringsdata-file /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/ExtractedAppShortcutsMetadata.stringsdata --source-file-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/BoraJogar.SwiftFileList --metadata-file-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar.DependencyMetadataFileList --static-metadata-file-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/BoraJogar.DependencyStaticMetadataFileList --swift-const-vals-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/Objects-normal/arm64/BoraJogar.SwiftConstValuesFileList --compile-time-extraction --deployment-aware-processing --no-app-shortcuts-localization
+2026-11-15 18:07:05.931 appintentsmetadataprocessor[99451:8298992] Starting App Intents metadata extraction
+2026-11-15 18:07:05.998 appintentsmetadataprocessor[99451:8298992] Writing Metadata.appintents
+2026-11-15 18:07:05.998 appintentsmetadataprocessor[99451:8298992] Metadata root: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/Metadata.appintents
+
+CopySwiftLibs /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app (in target 'Courtyard73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-swiftStdLibTool --copy --verbose --scan-executable /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/BoraJogar.debug.dylib --scan-folder /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/Frameworks --scan-folder /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/PlugIns --scan-folder /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/SystemExtensions --scan-folder /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/Extensions --platform iphonesimulator --toolchain /var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v27.2.47.0.L9KO4x/Metal.xctoolchain --toolchain /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain --destination /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/Frameworks --strip-bitcode --strip-bitcode-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip --emit-dependency-info /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/Courtyard73.build/SwiftStdLibToolInputDependencies.dep --filter-for-swift-os
+Ignoring --strip-bitcode because --sign was not passed
+
+ValidateEmbeddedBinary /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/PlugIns/Touchline73.appex (in target 'Courtyard73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    /Applications/Xcode.app/Contents/Developer/usr/bin/embeddedBinaryValidationUtility /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/PlugIns/Touchline73.appex -info-plist-path /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/BoraJogar.app/Info.plist
+
+Ld /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73-Runner.app/PlugIns/FieldProof73.xctest/FieldProof73 normal (in target 'FieldProof73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target arm64-apple-ios17.2-simulator -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk -Os -Xlinker -no_warn_duplicate_libraries -L/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/EagerLinkingTBDs/Practice-iphonesimulator -L/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -L/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib -F/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/EagerLinkingTBDs/Practice-iphonesimulator -F/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator -iframework /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks -iframework /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk/Developer/Library/Frameworks -filelist /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73.LinkFileList -Xlinker -rpath -Xlinker /usr/lib/swift -Xlinker -rpath -Xlinker @loader_path/Frameworks -Xlinker -rpath -Xlinker @executable_path/Frameworks -Xlinker -dead_strip -Xlinker -object_path_lto -Xlinker /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73_lto.o -rdynamic -Xlinker -objc_abi_version -Xlinker 2 -Xlinker -dependency_info -Xlinker /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73_dependency_info.dat -fobjc-link-runtime -L/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator -L/usr/lib/swift -Xlinker -add_ast_path -Xlinker /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73.swiftmodule -Xlinker -needed_framework -Xlinker XCTest -framework XCTest -Xlinker -needed-lXCTestSwiftSupport -lXCTestSwiftSupport -o /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73-Runner.app/PlugIns/FieldProof73.xctest/FieldProof73
+
+Copy /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73.swiftmodule/arm64-apple-ios-simulator.abi.json /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73.abi.json (in target 'FieldProof73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-unsigned-binaries -strip-deterministic -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks -rename /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73.abi.json /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73.swiftmodule/arm64-apple-ios-simulator.abi.json
+
+Copy /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73.swiftsourceinfo (in target 'FieldProof73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-unsigned-binaries -strip-deterministic -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks -rename /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73.swiftsourceinfo /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo
+
+ExtractAppIntentsMetadata (in target 'FieldProof73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/appintentsmetadataprocessor --toolchain-dir /var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v27.2.47.0.L9KO4x/Metal.xctoolchain --module-name FieldProof73 --sdk-root /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk --xcode-version 27B52 --platform-family iOS --deployment-target 17.2 --bundle-identifier org.courtyard.borajogar.a73f2.proof --output /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73-Runner.app/PlugIns/FieldProof73.xctest --target-triple arm64-apple-ios17.2-simulator --binary-file /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73-Runner.app/PlugIns/FieldProof73.xctest/FieldProof73 --dependency-file /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73_dependency_info.dat --stringsdata-file /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/ExtractedAppShortcutsMetadata.stringsdata --source-file-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73.SwiftFileList --metadata-file-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/FieldProof73.DependencyMetadataFileList --static-metadata-file-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/FieldProof73.DependencyStaticMetadataFileList --swift-const-vals-list /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/Objects-normal/arm64/FieldProof73.SwiftConstValuesFileList --compile-time-extraction --deployment-aware-processing --no-app-shortcuts-localization
+2026-11-15 18:07:06.881 appintentsmetadataprocessor[99459:8299216] Starting App Intents metadata extraction
+2026-11-15 18:07:06.942 appintentsmetadataprocessor[99459:8299216] Writing Metadata.appintents
+2026-11-15 18:07:06.942 appintentsmetadataprocessor[99459:8299216] Metadata root: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73-Runner.app/PlugIns/FieldProof73.xctest/Metadata.appintents
+
+ProcessInfoPlistFile /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73-Runner.app/PlugIns/FieldProof73.xctest/Info.plist /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/empty-FieldProof73.plist (in target 'FieldProof73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-infoPlistUtility /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/empty-FieldProof73.plist -producttype com.apple.product-type.bundle.ui-testing -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/ProductTypeInfoPlistAdditions.plist -o /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73-Runner.app/PlugIns/FieldProof73.xctest/Info.plist
+
+CopySwiftLibs /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73-Runner.app/PlugIns/FieldProof73.xctest (in target 'FieldProof73' from project 'BoraJogar')
+    cd /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar
+    builtin-swiftStdLibTool --copy --verbose --scan-executable /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73-Runner.app/PlugIns/FieldProof73.xctest/FieldProof73 --scan-folder /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73-Runner.app/PlugIns/FieldProof73.xctest/Frameworks --scan-folder /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73-Runner.app/PlugIns/FieldProof73.xctest/PlugIns --scan-folder /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73-Runner.app/PlugIns/FieldProof73.xctest/SystemExtensions --scan-folder /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73-Runner.app/PlugIns/FieldProof73.xctest/Extensions --platform iphonesimulator --toolchain /var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v27.2.47.0.L9KO4x/Metal.xctoolchain --toolchain /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain --destination /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Products/Practice-iphonesimulator/FieldProof73-Runner.app/PlugIns/FieldProof73.xctest/Frameworks --strip-bitcode --scan-executable /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/libXCTestSwiftSupport.dylib --strip-bitcode-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip --emit-dependency-info /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/BoraJogar.build/Practice-iphonesimulator/FieldProof73.build/SwiftStdLibToolInputDependencies.dep --filter-for-swift-os
+Ignoring --strip-bitcode because --sign was not passed
+
+PruneExplicitPrecompiledModules /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules
+
+PruneExplicitPrecompiledModules /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/SDKExplicitPrecompiledModules
+
+PruneExplicitPrecompiledModules /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DerivedData/Build/Intermediates.noindex/ExplicitPrecompiledModules
+
+2026-11-15 18:07:11.198981+0300 FieldProof73-Runner[99483:8299462] [Default] Running tests...
+    t =      nans Interface orientation changed to Portrait
+Test Suite 'All tests' started at 2026-11-15 18:07:14.602.
+Test Suite 'FieldProof73.xctest' started at 2026-11-15 18:07:14.603.
+Test Suite 'u73' started at 2026-11-15 18:07:14.603.
+Test Case '-[FieldProof73.u73 test00TableUsesOnlyFinalProtocols]' started.
+    t =     0.01s Start Test at 2026-11-15 18:07:14.610
+    t =     0.15s Set Up
+    t =     0.15s Tear Down
+Test Case '-[FieldProof73.u73 test00TableUsesOnlyFinalProtocols]' passed (0.176 seconds).
+Test Case '-[FieldProof73.u73 test01TiesAndRoundTrip]' started.
+    t =     0.00s Start Test at 2026-11-15 18:07:14.787
+    t =     0.01s Set Up
+    t =     0.02s Tear Down
+Test Case '-[FieldProof73.u73 test01TiesAndRoundTrip]' passed (0.041 seconds).
+Test Case '-[FieldProof73.u73 test10OfflineJourney]' started.
+    t =     0.00s Start Test at 2026-11-15 18:07:14.828
+    t =     0.01s Set Up
+    t =     0.02s Open org.courtyard.borajogar.a73f2
+    t =     0.02s     Launch org.courtyard.borajogar.a73f2
+2026-11-15 18:07:14.912 xcodebuild[99323:8297423] [MT] IDELaunchParametersSnapshot: debugger version lookup failed for path '<nil>': noURL
+2026-11-15 18:07:14.913 xcodebuild[99323:8297423] [MT] IDELaunchParametersSnapshot: no debugger version
+objc[99483]: Class UIAccessibilityLoaderWebShared is implemented in both /private/var/run/com.apple.security.cryptexd/mnt/com.apple.iPhoneOS.SimulatorRuntime-v24.2.8117.0.Z3Mabo/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 27.2.simruntime/Contents/Resources/RuntimeRoot/System/Library/AccessibilityBundles/WebCore.axbundle/WebCore (0x10596c310) and /private/var/run/com.apple.security.cryptexd/mnt/com.apple.iPhoneOS.SimulatorRuntime-v24.2.8117.0.Z3Mabo/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 27.2.simruntime/Contents/Resources/RuntimeRoot/System/Library/AccessibilityBundles/WebKit.axbundle/WebKit (0x105920398). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+    t =     0.90s         Setting up automation session
+    t =     2.98s         Wait for org.courtyard.borajogar.a73f2 to idle
+    t =     4.51s Waiting 15.0s for "Create your team" Button to exist
+    t =     5.59s     Checking `Expect predicate `existsNoRetry == 1` for object "Create your team" Button`
+    t =     5.59s         Checking existence of `"Create your team" Button`
+    t =     5.77s Added attachment named '01-first-launch'
+    t =     5.77s Tap "Create your team" Button
+    t =     5.77s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =     5.78s     Find the "Create your team" Button
+    t =     5.80s     Check for interrupting elements affecting "Create your team" Button
+    t =     5.83s     Synthesize event
+    t =     6.23s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =     6.73s Tap "teamName" TextField
+    t =     6.73s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =     6.74s     Find the "teamName" TextField
+    t =     6.80s     Check for interrupting elements affecting "teamName" TextField
+    t =     6.84s     Synthesize event
+    t =     7.13s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =     8.13s Type 'Aurora FC' into "teamName" TextField
+    t =     8.13s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =     8.50s     Find the "teamName" TextField
+    t =     8.61s     Check for interrupting elements affecting "teamName" TextField
+    t =     8.66s     Synthesize event
+    t =     9.03s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =     9.03s Tap "Create" Button
+    t =     9.03s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =     9.03s     Find the "Create" Button
+    t =     9.10s     Check for interrupting elements affecting "Create" Button
+    t =     9.15s     Synthesize event
+    t =     9.45s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =     9.90s Waiting 5.0s for "Aurora FC" StaticText to exist
+    t =    10.94s     Checking `Expect predicate `existsNoRetry == 1` for object "Aurora FC" StaticText`
+    t =    10.94s         Checking existence of `"Aurora FC" StaticText`
+    t =    10.99s Checking existence of `"Squad" Button`
+    t =    11.02s Tap "Squad" Button
+    t =    11.02s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    11.02s     Find the "Squad" Button
+    t =    11.05s     Check for interrupting elements affecting "person.3.fill" Button
+    t =    11.07s     Synthesize event
+    t =    11.37s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    13.09s Tap "Add player" Button
+    t =    13.09s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    13.10s     Find the "Add player" Button
+    t =    13.17s     Check for interrupting elements affecting "Add player" Button
+    t =    13.30s     Synthesize event
+    t =    13.60s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    14.08s Tap "Name" TextField
+    t =    14.08s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    14.09s     Find the "Name" TextField
+    t =    14.15s     Check for interrupting elements affecting "Name" TextField
+    t =    14.19s     Synthesize event
+    t =    14.49s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    14.85s Type 'Rafa' into "Name" TextField
+    t =    14.85s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    14.86s     Find the "Name" TextField
+    t =    14.92s     Check for interrupting elements affecting "Name" TextField
+    t =    14.97s     Synthesize event
+    t =    15.25s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    15.25s Tap "Save" Button
+    t =    15.25s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    15.26s     Find the "Save" Button
+    t =    15.31s     Check for interrupting elements affecting "Save" Button
+    t =    15.36s     Synthesize event
+    t =    15.66s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    16.06s Waiting 3.0s for "Rafa" StaticText to exist
+    t =    17.09s     Checking `Expect predicate `existsNoRetry == 1` for object "Rafa" StaticText`
+    t =    17.09s         Checking existence of `"Rafa" StaticText`
+    t =    17.20s Added attachment named '02-squad'
+    t =    17.20s Checking existence of `"Season" Button`
+    t =    17.22s Tap "Season" Button
+    t =    17.22s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    17.23s     Find the "Season" Button
+    t =    17.26s     Check for interrupting elements affecting "chart.bar.xaxis" Button
+    t =    17.28s     Synthesize event
+    t =    17.58s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    19.27s Tap "Create season" Button
+    t =    19.27s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    19.27s     Find the "Create season" Button
+    t =    19.29s     Check for interrupting elements affecting "plus.circle.fill" Button
+    t =    19.31s     Synthesize event
+    t =    19.60s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    19.98s Tap "Season name" TextField
+    t =    19.98s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    19.98s     Find the "Season name" TextField
+    t =    20.01s     Check for interrupting elements affecting "Season name" TextField
+    t =    20.05s     Synthesize event
+    t =    20.34s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    20.68s Type 'Weekend League' into "Season name" TextField
+    t =    20.68s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    20.68s     Find the "Season name" TextField
+    t =    20.72s     Check for interrupting elements affecting "Season name" TextField
+    t =    20.75s     Synthesize event
+    t =    21.18s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    21.18s Tap "Create" Button
+    t =    21.18s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    21.18s     Find the "Create" Button
+    t =    21.21s     Check for interrupting elements affecting "Create" Button
+    t =    21.24s     Synthesize event
+    t =    21.53s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    21.95s Waiting 4.0s for "Standings" StaticText to exist
+    t =    22.99s     Checking `Expect predicate `existsNoRetry == 1` for object "Standings" StaticText`
+    t =    22.99s         Checking existence of `"Standings" StaticText`
+    t =    23.07s Added attachment named '03-season'
+    t =    23.07s Checking existence of `"Courts" Button`
+    t =    23.09s Tap "Courts" Button
+    t =    23.09s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    23.09s     Find the "Courts" Button
+    t =    23.11s     Check for interrupting elements affecting "mappin.and.ellipse" Button
+    t =    23.13s     Synthesize event
+    t =    23.41s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    25.07s Waiting 5.0s for Any (First Match) to exist
+    t =    26.10s     Checking `Expect predicate `existsNoRetry == 1` for object Any (First Match)`
+    t =    26.10s         Checking existence of `Any (First Match)`
+    t =    26.23s Added attachment named '04-directory'
+    t =    26.23s Tap "Nearby" Button
+    t =    26.23s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    26.24s     Find the "Nearby" Button
+    t =    26.26s     Check for interrupting elements affecting "Nearby" Button
+    t =    26.29s     Synthesize event
+    t =    26.57s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    26.83s Waiting 4.0s for "Don’t Allow" Button to exist
+    t =    27.86s     Checking `Expect predicate `existsNoRetry == 1` for object "Don’t Allow" Button`
+    t =    27.86s         Checking existence of `"Don’t Allow" Button`
+    t =    27.93s Tap "Don’t Allow" Button
+    t =    27.93s     Wait for com.apple.springboard to idle
+    t =    27.93s     Find the "Don’t Allow" Button
+    t =    27.95s     Check for interrupting elements affecting "Don’t Allow" Button
+    t =    27.97s     Synthesize event
+    t =    28.25s     Wait for com.apple.springboard to idle
+    t =    28.49s Checking existence of `Any (First Match)`
+    t =    28.56s Checking existence of `"Matchday" Button`
+    t =    28.59s Tap "Matchday" Button
+    t =    28.59s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    28.59s     Find the "Matchday" Button
+    t =    28.62s     Check for interrupting elements affecting "soccerball" Button
+    t =    28.64s     Synthesize event
+    t =    28.93s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    30.56s Tap "Create match" Button
+    t =    30.56s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    30.56s     Find the "Create match" Button
+    t =    30.59s     Check for interrupting elements affecting "Create match" Button
+    t =    30.61s     Synthesize event
+    t =    30.90s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    31.32s Tap "opponent" TextField
+    t =    31.32s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    31.33s     Find the "opponent" TextField
+    t =    31.38s     Check for interrupting elements affecting "opponent" TextField
+    t =    31.41s     Synthesize event
+    t =    31.70s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    31.98s Type 'Vila Nova' into "opponent" TextField
+    t =    31.98s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    31.98s     Find the "opponent" TextField
+    t =    32.04s     Check for interrupting elements affecting "opponent" TextField
+    t =    32.08s     Synthesize event
+    t =    32.44s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    32.44s Find the "courtPicker" Button
+    t =    32.50s Swipe up Target Application 'org.courtyard.borajogar.a73f2'
+    t =    32.50s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    32.50s     Find the Target Application 'org.courtyard.borajogar.a73f2'
+    t =    32.53s     Check for interrupting elements affecting "Bora Jogar" Application
+    t =    32.56s     Synthesize event
+    t =    32.99s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    33.54s Tap "courtPicker" Button
+    t =    33.54s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    33.55s     Find the "courtPicker" Button
+    t =    33.61s     Check for interrupting elements affecting "courtPicker" Button
+    t =    33.64s     Synthesize event
+    t =    33.93s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    35.15s Waiting 3.0s for "CERET · São Paulo" Button to exist
+    t =    36.18s     Checking `Expect predicate `existsNoRetry == 1` for object "CERET · São Paulo" Button`
+    t =    36.18s         Checking existence of `"CERET · São Paulo" Button`
+    t =    36.23s Tap "CERET · São Paulo" Button
+    t =    36.23s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    36.23s     Find the "CERET · São Paulo" Button
+    t =    36.27s     Check for interrupting elements affecting "CERET · São Paulo" Button
+    t =    36.31s     Synthesize event
+    t =    36.60s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    38.07s Tap "Save" Button
+    t =    38.07s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    38.07s     Find the "Save" Button
+    t =    38.11s     Check for interrupting elements affecting "Save" Button
+    t =    38.15s     Synthesize event
+    t =    38.44s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    38.89s Waiting 5.0s for Any (First Match) to exist
+    t =    39.91s     Checking `Expect predicate `existsNoRetry == 1` for object Any (First Match)`
+    t =    39.91s         Checking existence of `Any (First Match)`
+    t =    40.03s Added attachment named '05-matchday'
+    t =    40.03s Terminate org.courtyard.borajogar.a73f2:99509
+    t =    41.08s Open org.courtyard.borajogar.a73f2
+    t =    41.08s     Launch org.courtyard.borajogar.a73f2
+2026-11-15 18:07:55.907 xcodebuild[99323:8297423] [MT] IDELaunchParametersSnapshot: debugger version lookup failed for path '<nil>': noURL
+2026-11-15 18:07:55.907 xcodebuild[99323:8297423] [MT] IDELaunchParametersSnapshot: no debugger version
+    t =    41.28s         Setting up automation session
+    t =    42.80s         Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    44.28s Waiting 10.0s for "Aurora FC" StaticText to exist
+    t =    45.30s     Checking `Expect predicate `existsNoRetry == 1` for object "Aurora FC" StaticText`
+    t =    45.30s         Checking existence of `"Aurora FC" StaticText`
+    t =    45.35s Checking existence of `Any (First Match)`
+    t =    45.47s Added attachment named '06-restored'
+    t =    45.48s Tap "Profile & privacy" Button
+    t =    45.48s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    45.48s     Find the "Profile & privacy" Button
+    t =    45.50s     Check for interrupting elements affecting "person.crop.circle" Button
+    t =    45.52s     Synthesize event
+    t =    45.81s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    46.29s Tap "profileName" TextField
+    t =    46.29s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    46.29s     Find the "profileName" TextField
+    t =    46.35s     Check for interrupting elements affecting "profileName" TextField
+    t =    46.38s     Synthesize event
+    t =    46.67s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    46.73s Type 'Alex' into "profileName" TextField
+    t =    46.73s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    47.10s     Find the "profileName" TextField
+    t =    47.17s     Check for interrupting elements affecting "profileName" TextField
+    t =    47.21s     Synthesize event
+    t =    47.48s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    47.48s Tap "Done" Button
+    t =    47.48s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    47.48s     Find the "Done" Button
+    t =    47.53s     Check for interrupting elements affecting "Done" Button
+    t =    47.57s     Synthesize event
+    t =    47.86s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    48.26s Checking existence of `"Team chat" Button`
+    t =    48.28s Tap "Team chat" Button
+    t =    48.28s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    48.28s     Find the "Team chat" Button
+    t =    48.31s     Check for interrupting elements affecting "bubble.left.and.bubble.right.fill" Button
+    t =    48.32s     Synthesize event
+    t =    48.61s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    50.33s Waiting 4.0s for "reviewComposer" Any to exist
+    t =    51.34s     Checking `Expect predicate `existsNoRetry == 1` for object "reviewComposer" Any`
+    t =    51.35s         Checking existence of `"reviewComposer" Any`
+    t =    51.42s Tap "reviewComposer" Any
+    t =    51.42s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    51.42s     Find the "reviewComposer" Any
+    t =    51.47s     Check for interrupting elements affecting "reviewComposer" TextField
+    t =    51.50s     Synthesize event
+    t =    51.79s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    52.06s Type 'Meet by the gate' into "reviewComposer" TextField
+    t =    52.06s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    52.07s     Find the "reviewComposer" TextField
+    t =    52.19s     Check for interrupting elements affecting "reviewComposer" TextField
+    t =    52.22s     Synthesize event
+    t =    52.69s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    52.70s Tap "sendReview" Button
+    t =    52.70s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    52.70s     Find the "sendReview" Button
+    t =    52.73s     Check for interrupting elements affecting "sendReview" Button
+    t =    52.75s     Synthesize event
+    t =    53.04s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    53.36s Waiting 5.0s for "OK" Button to exist
+    t =    54.39s     Checking `Expect predicate `existsNoRetry == 1` for object "OK" Button`
+    t =    54.39s         Checking existence of `"OK" Button`
+    t =    54.43s Tap "OK" Button
+    t =    54.43s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    54.44s     Find the "OK" Button
+    t =    54.46s     Check for interrupting elements affecting "OK" Button
+    t =    54.49s     Synthesize event
+    t =    54.78s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    55.05s Waiting 4.0s for "Approve" Button to exist
+    t =    56.07s     Checking `Expect predicate `existsNoRetry == 1` for object "Approve" Button`
+    t =    56.07s         Checking existence of `"Approve" Button`
+    t =    56.11s Tap "Approve" Button
+    t =    56.11s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    56.11s     Find the "Approve" Button
+    t =    56.14s     Check for interrupting elements affecting "Approve" Button
+    t =    56.16s     Synthesize event
+    t =    56.45s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    56.45s Checking existence of `Any (First Match)`
+    t =    56.56s Added attachment named '07-reviewed-chat'
+    t =    56.56s Tap "Report" Button
+    t =    56.56s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    56.56s     Find the "Report" Button
+    t =    56.58s     Check for interrupting elements affecting "Report" Button
+    t =    56.60s     Synthesize event
+    t =    56.89s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    57.14s Waiting 5.0s for "OK" Button to exist
+    t =    58.18s     Checking `Expect predicate `existsNoRetry == 1` for object "OK" Button`
+    t =    58.18s         Checking existence of `"OK" Button`
+    t =    58.22s Tap "OK" Button
+    t =    58.22s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    58.23s     Find the "OK" Button
+    t =    58.25s     Check for interrupting elements affecting "OK" Button
+    t =    58.28s     Synthesize event
+    t =    58.57s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    58.83s Checking existence of `Any (First Match)`
+    t =    58.89s Checking existence of `"Matchday" Button`
+    t =    58.91s Tap "Matchday" Button
+    t =    58.91s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    58.92s     Find the "Matchday" Button
+    t =    58.94s     Check for interrupting elements affecting "soccerball" Button
+    t =    58.96s     Synthesize event
+    t =    59.24s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    60.91s Tap "Profile & privacy" Button
+    t =    60.91s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    60.91s     Find the "Profile & privacy" Button
+    t =    60.95s     Check for interrupting elements affecting "person.crop.circle" Button
+    t =    60.97s     Synthesize event
+    t =    61.27s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    61.69s Find the "Match reminders" Switch
+    t =    61.74s Checking existence of `Switch (First Match)`
+    t =    61.80s Tap Switch (First Match)
+    t =    61.80s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    61.80s     Find the Switch (First Match)
+    t =    61.86s     Check for interrupting elements affecting "0" Switch
+    t =    61.89s     Synthesize event
+    t =    62.18s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    62.47s Waiting 4.0s for "Enable" Button to exist
+    t =    63.49s     Checking `Expect predicate `existsNoRetry == 1` for object "Enable" Button`
+    t =    63.49s         Checking existence of `"Enable" Button`
+    t =    63.55s Tap "Enable" Button
+    t =    63.55s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    63.55s     Find the "Enable" Button
+    t =    63.59s     Check for interrupting elements affecting "Enable" Button
+    t =    63.63s     Synthesize event
+    t =    63.92s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    64.17s Waiting 5.0s for "Don’t Allow" Button to exist
+    t =    65.19s     Checking `Expect predicate `existsNoRetry == 1` for object "Don’t Allow" Button`
+    t =    65.19s         Checking existence of `"Don’t Allow" Button`
+    t =    65.20s Tap "Don’t Allow" Button
+    t =    65.21s     Wait for com.apple.springboard to idle
+    t =    65.21s     Find the "Don’t Allow" Button
+    t =    65.22s     Check for interrupting elements affecting "Don’t Allow" Button
+    t =    65.24s     Synthesize event
+    t =    65.53s     Wait for com.apple.springboard to idle
+    t =    65.77s Waiting 5.0s for "OK" Button to exist
+    t =    66.79s     Checking `Expect predicate `existsNoRetry == 1` for object "OK" Button`
+    t =    66.79s         Checking existence of `"OK" Button`
+    t =    66.82s Tap "OK" Button
+    t =    66.82s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    66.83s     Find the "OK" Button
+    t =    66.86s     Check for interrupting elements affecting "OK" Button
+    t =    66.90s     Synthesize event
+    t =    67.19s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    67.45s Find the "Match reminders" Switch
+    t =    67.50s Find the "Delete profile & data" Button
+    t =    68.54s     Find the "Delete profile & data" Button (retry 1)
+    t =    69.60s     Find the "Delete profile & data" Button (retry 2)
+    t =    69.65s Swipe up Target Application 'org.courtyard.borajogar.a73f2'
+    t =    69.65s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    69.66s     Find the Target Application 'org.courtyard.borajogar.a73f2'
+    t =    69.68s     Check for interrupting elements affecting "Bora Jogar" Application
+    t =    69.71s     Synthesize event
+    t =    70.13s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    70.87s Find the "Delete profile & data" Button
+    t =    70.93s Tap "Delete profile & data" Button
+    t =    70.93s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    70.93s     Find the "Delete profile & data" Button
+    t =    70.97s     Check for interrupting elements affecting "Delete profile & data" Button
+    t =    71.00s     Synthesize event
+    t =    71.29s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    71.56s Get all elements bound by index for: Elements matching predicate '"Delete profile & data" IN identifiers'
+    t =    71.63s Find the "Delete profile & data" Button
+    t =    71.67s Tap "Delete profile & data" Button
+    t =    71.67s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    71.67s     Find the "Delete profile & data" Button
+    t =    71.71s     Check for interrupting elements affecting "Delete profile & data" Button
+    t =    71.75s     Synthesize event
+    t =    72.04s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    72.71s Waiting 5.0s for "OK" Button to exist
+    t =    73.74s     Checking `Expect predicate `existsNoRetry == 1` for object "OK" Button`
+    t =    73.74s         Checking existence of `"OK" Button`
+    t =    73.80s Tap "OK" Button
+    t =    73.80s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    73.80s     Find the "OK" Button
+    t =    73.84s     Check for interrupting elements affecting "OK" Button
+    t =    73.88s     Synthesize event
+    t =    74.17s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    74.43s Tap "Done" Button
+    t =    74.43s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    74.44s     Find the "Done" Button
+    t =    74.48s     Check for interrupting elements affecting "Done" Button
+    t =    74.51s     Synthesize event
+    t =    74.80s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    75.18s Waiting 5.0s for "Create your team" Button to exist
+    t =    76.20s     Checking `Expect predicate `existsNoRetry == 1` for object "Create your team" Button`
+    t =    76.20s         Checking existence of `"Create your team" Button`
+    t =    76.23s Checking existence of `"Courts" Button`
+    t =    76.25s Tap "Courts" Button
+    t =    76.25s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    76.26s     Find the "Courts" Button
+    t =    76.28s     Check for interrupting elements affecting "mappin.and.ellipse" Button
+    t =    76.29s     Synthesize event
+    t =    76.58s     Wait for org.courtyard.borajogar.a73f2 to idle
+    t =    78.31s Waiting 4.0s for Any (First Match) to exist
+    t =    79.33s     Checking `Expect predicate `existsNoRetry == 1` for object Any (First Match)`
+    t =    79.33s         Checking existence of `Any (First Match)`
+    t =    79.48s Added attachment named '08-reference-after-profile-deletion'
+    t =    79.48s Tear Down
+Test Case '-[FieldProof73.u73 test10OfflineJourney]' passed (79.809 seconds).
+Test Suite 'u73' passed at 2026-11-15 18:08:34.638.
+	 Executed 3 tests, with 0 failures (0 unexpected) in 80.027 (80.034) seconds
+Test Suite 'FieldProof73.xctest' passed at 2026-11-15 18:08:34.639.
+	 Executed 3 tests, with 0 failures (0 unexpected) in 80.027 (80.036) seconds
+Test Suite 'All tests' passed at 2026-11-15 18:08:34.639.
+	 Executed 3 tests, with 0 failures (0 unexpected) in 80.027 (80.037) seconds
+2026-11-15 18:08:34.958 xcodebuild[99323:8297423] [MT] IDETestOperationsObserverDebug: 87.980 elapsed -- Testing started completed.
+2026-11-15 18:08:34.958 xcodebuild[99323:8297423] [MT] IDETestOperationsObserverDebug: 0.000 sec, +0.000 sec -- start
+2026-11-15 18:08:34.958 xcodebuild[99323:8297423] [MT] IDETestOperationsObserverDebug: 87.980 sec, +87.980 sec -- end
+
+Test session results, code coverage, and logs:
+	/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/QA/iphone/Result-20261115-180638.xcresult
+
+** TEST SUCCEEDED **
+
+Testing started

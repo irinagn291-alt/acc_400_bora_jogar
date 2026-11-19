@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> goals</key>
+	<string> goals</string>
+	<key>3 points for a win, 1 for a draw. Ties: goal difference, goals scored, team name. Cancelled matches do not count.</key>
+	<string>3 points for a win, 1 for a draw. Ties: goal difference, goals scored, team name. Cancelled matches do not count.</string>
+	<key>A court for every game.</key>
+	<string>A court for every game.</string>
+	<key>A good game starts with respect.</key>
+	<string>A good game starts with respect.</string>
+	<key>Add a profile name first.</key>
+	<string>Add a profile name first.</string>
+	<key>Add court</key>
+	<string>Add court</string>
+	<key>Add opponent</key>
+	<string>Add opponent</string>
+	<key>Add player</key>
+	<string>Add player</string>
+	<key>Add players in Squad.</key>
+	<string>Add players in Squad.</string>
+	<key>Add to Calendar</key>
+	<string>Add to Calendar</string>
+	<key>Add your name and sign in with Apple first.</key>
+	<string>Add your name and sign in with Apple first.</string>
+	<key>Add your own court</key>
+	<string>Add your own court</string>
+	<key>Address</key>
+	<string>Address</string>
+	<key>Approve</key>
+	<string>Approve</string>
+	<key>Approved messages</key>
+	<string>Approved messages</string>
+	<key>Approximate location</key>
+	<string>Approximate location</string>
+	<key>Assist</key>
+	<string>Assist</string>
+	<key>Attendance syncs when the app opens. Unsynced responses stay on this device.</key>
+	<string>Attendance syncs when the app opens. Unsynced responses stay on this device.</string>
+	<key>Away goals</key>
+	<string>Away goals</string>
+	<key>Back up or restore organizer keys</key>
+	<string>Back up or restore organizer keys</string>
+	<key>Be kind. Do not share personal contacts, external links or harmful content. Organizers review messages before publication, reject content, handle reports and block participants. Use Report below a message to reach your organizer.</key>
+	<string>Be kind. Do not share personal contacts, external links or harmful content. Organizers review messages before publication, reject content, handle reports and block participants. Use Report below a message to reach your organizer.</string>
+	<key>Block player</key>
+	<string>Block player</string>
+	<key>Bora Jogar</key>
+	<string>Bora Jogar</string>
+	<key>Build a squad</key>
+	<string>Build a squad</string>
+	<key>Can't play</key>
+	<string>Can't play</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Cancel match</key>
+	<string>Cancel match</string>
+	<key>Cancel this match?</key>
+	<string>Cancel this match?</string>
+	<key>Cancelled</key>
+	<string>Cancelled</string>
+	<key>Choose</key>
+	<string>Choose</string>
+	<key>Choose a court, set kickoff and bring the squad.</key>
+	<string>Choose a court, set kickoff and bring the squad.</string>
+	<key>City</key>
+	<string>City</string>
+	<key>Cloud conflict</key>
+	<string>Cloud conflict</string>
+	<key>Cloud deletion did not finish. Your profile is kept so you can retry.</key>
+	<string>Cloud deletion did not finish. Your profile is kept so you can retry.</string>
+	<key>Community football organized with Bora Jogar.</key>
+	<string>Community football organized with Bora Jogar.</string>
+	<key>Coordinates are optional to obtain from Maps, but required to place your court accurately in this directory.</key>
+	<string>Coordinates are optional to obtain from Maps, but required to place your court accurately in this directory.</string>
+	<key>Could not accept invitation.</key>
+	<string>Could not accept invitation.</string>
+	<key>Could not create a team invitation.</key>
+	<string>Could not create a team invitation.</string>
+	<key>Could not find your location. Search by city instead.</key>
+	<string>Could not find your location. Search by city instead.</string>
+	<key>Could not protect the organizer key.</key>
+	<string>Could not protect the organizer key.</string>
+	<key>Could not save on this device.</key>
+	<string>Could not save on this device.</string>
+	<key>Court</key>
+	<string>Court</string>
+	<key>Court &amp; season</key>
+	<string>Court &amp; season</string>
+	<key>Court details</key>
+	<string>Court details</string>
+	<key>Court details are an offline directory. Contact the venue yourself to check access; creating a match does not reserve a court.</key>
+	<string>Court details are an offline directory. Contact the venue yourself to check access; creating a match does not reserve a court.</string>
+	<key>Court name</key>
+	<string>Court name</string>
+	<key>Courts</key>
+	<string>Courts</string>
+	<key>Create</key>
+	<string>Create</string>
+	<key>Create a season to group fixtures and build a table from final scores.</key>
+	<string>Create a season to group fixtures and build a table from final scores.</string>
+	<key>Create a team on Matchday first.</key>
+	<string>Create a team on Matchday first.</string>
+	<key>Create another team</key>
+	<string>Create another team</string>
+	<key>Create match</key>
+	<string>Create match</string>
+	<key>Create season</key>
+	<string>Create season</string>
+	<key>Create team</key>
+	<string>Create team</string>
+	<key>Create your team</key>
+	<string>Create your team</string>
+	<key>D</key>
+	<string>D</string>
+	<key>Data stays on this device until you enable iCloud. Teams and approved chat are shared only through team invitations. No tracking, advertising, analytics or own server is used.</key>
+	<string>Data stays on this device until you enable iCloud. Teams and approved chat are shared only through team invitations. No tracking, advertising, analytics or own server is used.</string>
+	<key>Defense</key>
+	<string>Defense</string>
+	<key>Delete profile &amp; data</key>
+	<string>Delete profile &amp; data</string>
+	<key>Delete profile removes your device data and your original iCloud messages; shared devices refresh deleted content on their next sync. Deletion requires a connection if iCloud was enabled. You may also remove Bora Jogar's Apple sign-in in device Settings.</key>
+	<string>Delete profile removes your device data and your original iCloud messages; shared devices refresh deleted content on their next sync. Deletion requires a connection if iCloud was enabled. You may also remove Bora Jogar's Apple sign-in in device Settings.</string>
+	<key>Delete your profile, local data and your iCloud team records? This cannot be undone.</key>
+	<string>Delete your profile, local data and your iCloud team records? This cannot be undone.</string>
+	<key>Directory</key>
+	<string>Directory</string>
+	<key>Done</key>
+	<string>Done</string>
+	<key>Enable</key>
+	<string>Enable</string>
+	<key>End countdown</key>
+	<string>End countdown</string>
+	<key>Every game counts.</key>
+	<string>Every game counts.</string>
+	<key>Export device data</key>
+	<string>Export device data</string>
+	<key>Final score</key>
+	<string>Final score</string>
+	<key>Finding nearby courts…</key>
+	<string>Finding nearby courts…</string>
+	<key>Fixture</key>
+	<string>Fixture</string>
+	<key>For team help, contact the organizer through your invitation. Export your data to keep a personal copy.</key>
+	<string>For team help, contact the organizer through your invitation. Export your data to keep a personal copy.</string>
+	<key>Forward</key>
+	<string>Forward</string>
+	<key>Free, without ads or purchases. Designed for community football.</key>
+	<string>Free, without ads or purchases. Designed for community football.</string>
+	<key>Friendly match</key>
+	<string>Friendly match</string>
+	<key>GA</key>
+	<string>GA</string>
+	<key>GD</key>
+	<string>GD</string>
+	<key>GET YOUR TEAM TOGETHER</key>
+	<string>GET YOUR TEAM TOGETHER</string>
+	<key>GF</key>
+	<string>GF</string>
+	<key>Get a reminder the day before kickoff. Your match calendar works if you decline.</key>
+	<string>Get a reminder the day before kickoff. Your match calendar works if you decline.</string>
+	<key>Goal log</key>
+	<string>Goal log</string>
+	<key>Goalkeeper</key>
+	<string>Goalkeeper</string>
+	<key>Going</key>
+	<string>Going</string>
+	<key>Have an invitation? Open the iCloud link from your organizer.</key>
+	<string>Have an invitation? Open the iCloud link from your organizer.</string>
+	<key>Hide author</key>
+	<string>Hide author</string>
+	<key>Home goals</key>
+	<string>Home goals</string>
+	<key>Home team</key>
+	<string>Home team</string>
+	<key>I'm in</key>
+	<string>I'm in</string>
+	<key>Invalid team key.</key>
+	<string>Invalid team key.</string>
+	<key>Invitation accepted</key>
+	<string>Invitation accepted</string>
+	<key>Invitations</key>
+	<string>Invitations</string>
+	<key>Invitations use iCloud. The organizer reviews membership and team messages. No public chat or live push service.</key>
+	<string>Invitations use iCloud. The organizer reviews membership and team messages. No public chat or live push service.</string>
+	<key>Invite with iCloud link</key>
+	<string>Invite with iCloud link</string>
+	<key>Keep teams you know here, then select them when creating a match. Share invitations through the system sheet.</key>
+	<string>Keep teams you know here, then select them when creating a match. Share invitations through the system sheet.</string>
+	<key>Keep this device's version</key>
+	<string>Keep this device's version</string>
+	<key>Kickoff</key>
+	<string>Kickoff</string>
+	<key>L</key>
+	<string>L</string>
+	<key>Last result</key>
+	<string>Last result</string>
+	<key>Latitude</key>
+	<string>Latitude</string>
+	<key>Less planning.
+More playing.</key>
+	<string>Less planning.
+More playing.</string>
+	<key>Lineup</key>
+	<string>Lineup</string>
+	<key>Links and contact details are not allowed in chat.</key>
+	<string>Links and contact details are not allowed in chat.</string>
+	<key>Live Activities are disabled in Settings.</key>
+	<string>Live Activities are disabled in Settings.</string>
+	<key>Local data could not be read. Keep a copy before deleting the app.</key>
+	<string>Local data could not be read. Keep a copy before deleting the app.</string>
+	<key>Local only</key>
+	<string>Local only</string>
+	<key>Local reminders for tomorrow's match and newly confirmed opponents. No real-time delivery is promised.</key>
+	<string>Local reminders for tomorrow's match and newly confirmed opponents. No real-time delivery is promised.</string>
+	<key>Location is unavailable. Search by city instead.</key>
+	<string>Location is unavailable. Search by city instead.</string>
+	<key>Longitude</key>
+	<string>Longitude</string>
+	<key>Map</key>
+	<string>Map</string>
+	<key>Map tiles need a connection. The court list remains available offline.</key>
+	<string>Map tiles need a connection. The court list remains available offline.</string>
+	<key>Match</key>
+	<string>Match</string>
+	<key>Match calendar</key>
+	<string>Match calendar</string>
+	<key>Match details</key>
+	<string>Match details</string>
+	<key>Match not found.</key>
+	<string>Match not found.</string>
+	<key>Match reminders</key>
+	<string>Match reminders</string>
+	<key>Match tomorrow</key>
+	<string>Match tomorrow</string>
+	<key>Matchday</key>
+	<string>Matchday</string>
+	<key>Maybe</key>
+	<string>Maybe</string>
+	<key>Membership request</key>
+	<string>Membership request</string>
+	<key>Message for review</key>
+	<string>Message for review</string>
+	<key>Message report</key>
+	<string>Message report</string>
+	<key>Messages appear after organizer approval. No links, personal contacts or abusive content. Reports hide the author immediately on your device.</key>
+	<string>Messages appear after organizer approval. No links, personal contacts or abusive content. Reports hide the author immediately on your device.</string>
+	<key>Midfield</key>
+	<string>Midfield</string>
+	<key>Minute</key>
+	<string>Minute</string>
+	<key>Minutes</key>
+	<string>Minutes</string>
+	<key>NEXT KICKOFF</key>
+	<string>NEXT KICKOFF</string>
+	<key>Name</key>
+	<string>Name</string>
+	<key>Nearby</key>
+	<string>Nearby</string>
+	<key>No matches yet.</key>
+	<string>No matches yet.</string>
+	<key>No response</key>
+	<string>No response</string>
+	<key>No upcoming match</key>
+	<string>No upcoming match</string>
+	<key>None</key>
+	<string>None</string>
+	<key>Nothing waiting for review.</key>
+	<string>Nothing waiting for review.</string>
+	<key>Notifications are disabled. You can enable them in Settings.</key>
+	<string>Notifications are disabled. You can enable them in Settings.</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Offline directory · approximate map pins. Access, opening hours and availability must be confirmed with the venue.</key>
+	<string>Offline directory · approximate map pins. Access, opening hours and availability must be confirmed with the venue.</string>
+	<key>Offline tools work without an account. iCloud is needed for shared teams; Apple sign-in identifies your chat profile. Changes are checked when you open the app or tap Sync.</key>
+	<string>Offline tools work without an account. iCloud is needed for shared teams; Apple sign-in identifies your chat profile. Changes are checked when you open the app or tap Sync.</string>
+	<key>Only final protocols count toward standings. Player goals are recorded separately and must match the team score.</key>
+	<string>Only final protocols count toward standings. Player goals are recorded separately and must match the team score.</string>
+	<key>Only the organizer can change this.</key>
+	<string>Only the organizer can change this.</string>
+	<key>Only the organizer can invite participants.</key>
+	<string>Only the organizer can invite participants.</string>
+	<key>Open in Maps</key>
+	<string>Open in Maps</string>
+	<key>Opponent</key>
+	<string>Opponent</string>
+	<key>Opponent confirmed</key>
+	<string>Opponent confirmed</string>
+	<key>Opponents</key>
+	<string>Opponents</string>
+	<key>Organizer</key>
+	<string>Organizer</string>
+	<key>Organizer key is missing on this device. Restore keys before syncing.</key>
+	<string>Organizer key is missing on this device. Restore keys before syncing.</string>
+	<key>Organizer key unavailable.</key>
+	<string>Organizer key unavailable.</string>
+	<key>Organizer keys backed up or restored in private iCloud.</key>
+	<string>Organizer keys backed up or restored in private iCloud.</string>
+	<key>Organizer protocol</key>
+	<string>Organizer protocol</string>
+	<key>Organizer review</key>
+	<string>Organizer review</string>
+	<key>P</key>
+	<string>P</string>
+	<key>Participant</key>
+	<string>Participant</string>
+	<key>Pending messages and reports are encrypted for the organizer. CloudKit transports and stores records. Apple account services use Apple's privacy terms. Location is used only to sort courts and is never sent to the team.</key>
+	<string>Pending messages and reports are encrypted for the organizer. CloudKit transports and stores records. Apple account services use Apple's privacy terms. Location is used only to sort courts and is never sent to the team.</string>
+	<key>Pending organizer review.</key>
+	<string>Pending organizer review.</string>
+	<key>Plan a match</key>
+	<string>Plan a match</string>
+	<key>Played</key>
+	<string>Played</string>
+	<key>Player statistics</key>
+	<string>Player statistics</string>
+	<key>Players</key>
+	<string>Players</string>
+	<key>Position</key>
+	<string>Position</string>
+	<key>Privacy &amp; community rules</key>
+	<string>Privacy &amp; community rules</string>
+	<key>Profile</key>
+	<string>Profile</string>
+	<key>Profile &amp; privacy</key>
+	<string>Profile &amp; privacy</string>
+	<key>Profile and device data deleted.</key>
+	<string>Profile and device data deleted.</string>
+	<key>Pts</key>
+	<string>Pts</string>
+	<key>Queued for organizer review. Open sync to send.</key>
+	<string>Queued for organizer review. Open sync to send.</string>
+	<key>RSVP</key>
+	<string>RSVP</string>
+	<key>Record goal</key>
+	<string>Record goal</string>
+	<key>Recovered the last local backup.</key>
+	<string>Recovered the last local backup.</string>
+	<key>Reject</key>
+	<string>Reject</string>
+	<key>Reminders</key>
+	<string>Reminders</string>
+	<key>Removed player</key>
+	<string>Removed player</string>
+	<key>Report</key>
+	<string>Report</string>
+	<key>Report saved for the organizer. This author is hidden on your device.</key>
+	<string>Report saved for the organizer. This author is hidden on your device.</string>
+	<key>Request a place in the squad</key>
+	<string>Request a place in the squad</string>
+	<key>Responses saved; sync again to share</key>
+	<string>Responses saved; sync again to share</string>
+	<key>Save</key>
+	<string>Save</string>
+	<key>Save your attendance locally. It syncs when you open Bora Jogar.</key>
+	<string>Save your attendance locally. It syncs when you open Bora Jogar.</string>
+	<key>Saved locally</key>
+	<string>Saved locally</string>
+	<key>Saved opponents</key>
+	<string>Saved opponents</string>
+	<key>Scheduled</key>
+	<string>Scheduled</string>
+	<key>Scorer</key>
+	<string>Scorer</string>
+	<key>Search by city instead.</key>
+	<string>Search by city instead.</string>
+	<key>Search city or court</key>
+	<string>Search city or court</string>
+	<key>Season</key>
+	<string>Season</string>
+	<key>Season name</key>
+	<string>Season name</string>
+	<key>Selected</key>
+	<string>Selected</string>
+	<key>Send for review</key>
+	<string>Send for review</string>
+	<key>Shirt number</key>
+	<string>Shirt number</string>
+	<key>Sign in to iCloud in Settings to collaborate. Your local data is safe.</key>
+	<string>Sign in to iCloud in Settings to collaborate. Your local data is safe.</string>
+	<key>Sign in with Apple to send team messages.</key>
+	<string>Sign in with Apple to send team messages.</string>
+	<key>Signed in with Apple</key>
+	<string>Signed in with Apple</string>
+	<key>Sorted by approximate distance.</key>
+	<string>Sorted by approximate distance.</string>
+	<key>Squad</key>
+	<string>Squad</string>
+	<key>Standings</key>
+	<string>Standings</string>
+	<key>Start kickoff countdown</key>
+	<string>Start kickoff countdown</string>
+	<key>Start the countdown within 8 hours of kickoff.</key>
+	<string>Start the countdown within 8 hours of kickoff.</string>
+	<key>Sync could not finish. Unsynced changes remain on this device.</key>
+	<string>Sync could not finish. Unsynced changes remain on this device.</string>
+	<key>Sync now</key>
+	<string>Sync now</string>
+	<key>Sync team</key>
+	<string>Sync team</string>
+	<key>Sync unavailable</key>
+	<string>Sync unavailable</string>
+	<key>Synced on this device</key>
+	<string>Synced on this device</string>
+	<key>Team</key>
+	<string>Team</string>
+	<key>Team chat</key>
+	<string>Team chat</string>
+	<key>Team name</key>
+	<string>Team name</string>
+	<key>Team scores, your next kickoff and the season table, from your device.</key>
+	<string>Team scores, your next kickoff and the season table, from your device.</string>
+	<key>Team storage is full. Export data and start a new team.</key>
+	<string>Team storage is full. Export data and start a new team.</string>
+	<key>Teams</key>
+	<string>Teams</string>
+	<key>Teams are added to the table when fixtures are created in this season.</key>
+	<string>Teams are added to the table when fixtures are created in this season.</string>
+	<key>The iCloud account changed. Export local data before deleting your profile and signing in again.</key>
+	<string>The iCloud account changed. Export local data before deleting your profile and signing in again.</string>
+	<key>The next game starts here.</key>
+	<string>The next game starts here.</string>
+	<key>This invitation has no team data.</key>
+	<string>This invitation has no team data.</string>
+	<key>This is a reference listing, not a reservation service. Check the venue before traveling.</key>
+	<string>This is a reference listing, not a reservation service. Check the venue before traveling.</string>
+	<key>This team changed on another device. Choose which version to keep.</key>
+	<string>This team changed on another device. Choose which version to keep.</string>
+	<key>Track a season</key>
+	<string>Track a season</string>
+	<key>Unavailable</key>
+	<string>Unavailable</string>
+	<key>Unhide authors on this device</key>
+	<string>Unhide authors on this device</string>
+	<key>Updated</key>
+	<string>Updated</string>
+	<key>Use cloud version</key>
+	<string>Use cloud version</string>
+	<key>Venue source</key>
+	<string>Venue source</string>
+	<key>W</key>
+	<string>W</string>
+	<key>You are the organizer. Create matches, approve chat and invite players when you're ready.</key>
+	<string>You are the organizer. Create matches, approve chat and invite players when you're ready.</string>
+	<key>Your attendance</key>
+	<string>Your attendance</string>
+	<key>Your data</key>
+	<string>Your data</string>
+	<key>Your name</key>
+	<string>Your name</string>
+	<key>Your next result starts on the pitch.</key>
+	<string>Your next result starts on the pitch.</string>
+	<key>Your participation is blocked by the organizer.</key>
+	<string>Your participation is blocked by the organizer.</string>
+	<key>Your squad, your court, your next match. All in one place, even offline.</key>
+	<string>Your squad, your court, your next match. All in one place, even offline.</string>
+	<key>Your team</key>
+	<string>Your team</string>
+	<key>appearances</key>
+	<string>appearances</string>
+	<key>assists</key>
+	<string>assists</string>
+	<key>goals</key>
+	<string>goals</string>
+	<key>going</key>
+	<string>going</string>
+	<key>iCloud collaboration</key>
+	<string>iCloud collaboration</string>
+	<key>played</key>
+	<string>played</string>
+	<key>requests waiting to sync</key>
+	<string>requests waiting to sync</string>
+	<key>wins</key>
+	<string>wins</string>
+</dict>
+</plist>

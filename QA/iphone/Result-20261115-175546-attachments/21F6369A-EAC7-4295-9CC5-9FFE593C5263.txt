@@ -1,0 +1,5 @@
+Query chain:
+ →Find: Target Application 'org.courtyard.borajogar.a73f2'
+  ↪︎Find: Descendants matching type Alert
+    ↪︎Find: Descendants matching type Button
+      ↪︎Find: Elements matching predicate '"Enable" IN identifiers'

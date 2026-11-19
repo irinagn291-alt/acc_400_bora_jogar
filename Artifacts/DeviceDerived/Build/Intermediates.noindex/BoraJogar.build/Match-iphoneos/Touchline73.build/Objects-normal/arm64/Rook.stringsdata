@@ -1,0 +1,40 @@
+{
+  "source": "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Sources/Rook.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "I'm in",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save your attendance locally. It syncs when you open Bora Jogar.",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Match",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Team",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 49
+        }
+      }
+    ]
+  },
+  "version": 1
+}

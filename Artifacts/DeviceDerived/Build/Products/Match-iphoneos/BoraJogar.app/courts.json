@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ibirapuera",
+    "name": "Parque Ibirapuera",
+    "city": "São Paulo",
+    "address": "Av. Pedro Álvares Cabral, Vila Mariana",
+    "lat": -23.5874,
+    "lon": -46.6576,
+    "source": "https://prefeitura.sp.gov.br/documents/d/meio_ambiente/urb-ibi-urb-ap-001-r01-cadastramento-de-infraestrutura-atual-completo-pdf",
+    "custom": false
+  },
+  {
+    "id": "ceret",
+    "name": "CERET",
+    "city": "São Paulo",
+    "address": "Rua Canuto de Abreu, Vila Formosa",
+    "lat": -23.5597,
+    "lon": -46.5667,
+    "source": "https://prefeitura.sp.gov.br/web/esportes/w/ceret/8631",
+    "custom": false
+  },
+  {
+    "id": "flamengo",
+    "name": "Parque do Flamengo",
+    "city": "Rio de Janeiro",
+    "address": "Aterro do Flamengo",
+    "lat": -22.929,
+    "lon": -43.171,
+    "source": "https://pref.rio/servicos/categoria/cidade/informacoes-sobre-o-uso-de-quadras-de-esporte-no-79d4d839",
+    "custom": false
+  },
+  {
+    "id": "mangabeiras",
+    "name": "Parque das Mangabeiras",
+    "city": "Belo Horizonte",
+    "address": "Av. José do Patrocínio Pontes, 580",
+    "lat": -19.9507,
+    "lon": -43.9063,
+    "source": "https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica/informacoes/parques/parque-das-mangabeiras",
+    "custom": false
+  },
+  {
+    "id": "riobranco",
+    "name": "Parque Rio Branco",
+    "city": "Fortaleza",
+    "address": "Av. Pontes Vieira, Joaquim Távora",
+    "lat": -3.7515,
+    "lon": -38.5175,
+    "source": "https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/parques-urbanos/parque_rio_branco.pdf",
+    "custom": false
+  },
+  {
+    "id": "sarah",
+    "name": "Parque da Cidade Sarah Kubitschek",
+    "city": "Brasília",
+    "address": "Eixo Monumental, Asa Sul",
+    "lat": -15.8019,
+    "lon": -47.9121,
+    "source": "https://agenciabrasilia.df.gov.br/w/quadras-renovadas-ampliam-opcoes-de-esporte-e-lazer-no-parque-da-cidade",
+    "custom": false
+  }
+]

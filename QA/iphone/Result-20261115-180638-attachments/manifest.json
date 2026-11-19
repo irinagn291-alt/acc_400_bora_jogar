@@ -1,0 +1,80 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "286A7905-5758-4E6B-87AF-AA3634D9AA11",
+        "deviceName" : "GF isolated manual-qa 1e44e553e28d45938f19f870c119e3da iPhone 18 Pro",
+        "exportedFileName" : "44EB0999-8185-409F-BA84-EE06B4D3151C.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "08-reference-after-profile-deletion_0_A3E5D816-D941-4B33-BF3B-D54124095600.png",
+        "timestamp" : 1794755314.307
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "286A7905-5758-4E6B-87AF-AA3634D9AA11",
+        "deviceName" : "GF isolated manual-qa 1e44e553e28d45938f19f870c119e3da iPhone 18 Pro",
+        "exportedFileName" : "DBB74972-899B-4F02-B7F6-BD3A057125B3.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "07-reviewed-chat_0_1D7C9750-4BA3-4043-84F2-C08FC1EDE9E3.png",
+        "timestamp" : 1794755291.386
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "286A7905-5758-4E6B-87AF-AA3634D9AA11",
+        "deviceName" : "GF isolated manual-qa 1e44e553e28d45938f19f870c119e3da iPhone 18 Pro",
+        "exportedFileName" : "DB1AFBB2-1274-42F0-AB99-228570D9950A.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "06-restored_0_7859BABE-1A51-4DC2-BE6D-A7360B723843.png",
+        "timestamp" : 1794755280.303
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "286A7905-5758-4E6B-87AF-AA3634D9AA11",
+        "deviceName" : "GF isolated manual-qa 1e44e553e28d45938f19f870c119e3da iPhone 18 Pro",
+        "exportedFileName" : "D8AF636D-5705-4E97-9592-E13656341C70.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "05-matchday_0_54BAB51E-31EA-43FA-88EB-6A9402EE232C.png",
+        "timestamp" : 1794755274.854
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "286A7905-5758-4E6B-87AF-AA3634D9AA11",
+        "deviceName" : "GF isolated manual-qa 1e44e553e28d45938f19f870c119e3da iPhone 18 Pro",
+        "exportedFileName" : "A45465D5-F7E0-428A-A223-8C363F20F35E.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "04-directory_0_81AB3A4D-3AF3-4797-93FC-A13D9990F18D.png",
+        "timestamp" : 1794755261.061
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "286A7905-5758-4E6B-87AF-AA3634D9AA11",
+        "deviceName" : "GF isolated manual-qa 1e44e553e28d45938f19f870c119e3da iPhone 18 Pro",
+        "exportedFileName" : "E001363B-DD7A-4891-AF88-480CFA80A76C.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "03-season_0_E813B3E7-4D61-424C-A4A8-0C093FDC0B08.png",
+        "timestamp" : 1794755257.894
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "286A7905-5758-4E6B-87AF-AA3634D9AA11",
+        "deviceName" : "GF isolated manual-qa 1e44e553e28d45938f19f870c119e3da iPhone 18 Pro",
+        "exportedFileName" : "0C34711C-F62B-432B-8775-5A29380F3BFF.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "02-squad_0_B4BD1CDC-9D65-4AFE-BCBE-8E3FED6A7F9F.png",
+        "timestamp" : 1794755252.024
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "286A7905-5758-4E6B-87AF-AA3634D9AA11",
+        "deviceName" : "GF isolated manual-qa 1e44e553e28d45938f19f870c119e3da iPhone 18 Pro",
+        "exportedFileName" : "63488597-4CAB-4C3F-8E2D-53B1E88F4704.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "01-first-launch_0_D1C0495C-D833-4F48-88AD-E0C6A2C0826C.png",
+        "timestamp" : 1794755240.6
+      }
+    ],
+    "testIdentifier" : "u73/test10OfflineJourney()",
+    "testIdentifierURL" : "test://com.apple.xcode/BoraJogar/FieldProof73/u73/test10OfflineJourney"
+  }
+]

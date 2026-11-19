@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>13</integer>
+	<key>logs</key>
+	<dict>
+		<key>275179B9-3380-46D3-9274-FC35024034BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>275179B9-3380-46D3-9274-FC35024034BE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BoraJogar project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Courtyard73</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project BoraJogar with scheme Courtyard73 and configuration Match</string>
+			<key>timeStartedRecording</key>
+			<real>816447690.49527097</real>
+			<key>timeStoppedRecording</key>
+			<real>816447701.432392</real>
+			<key>title</key>
+			<string>Building project BoraJogar with scheme Courtyard73 and configuration Match</string>
+			<key>uniqueIdentifier</key>
+			<string>275179B9-3380-46D3-9274-FC35024034BE</string>
+		</dict>
+		<key>4F3585AB-1110-42C5-B895-A0413A9BBAF3</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4F3585AB-1110-42C5-B895-A0413A9BBAF3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BoraJogar project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Courtyard73</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project BoraJogar with scheme Courtyard73 and configuration Match</string>
+			<key>timeStartedRecording</key>
+			<real>816442157.71106303</real>
+			<key>timeStoppedRecording</key>
+			<real>816442165.06311595</real>
+			<key>title</key>
+			<string>Building project BoraJogar with scheme Courtyard73 and configuration Match</string>
+			<key>uniqueIdentifier</key>
+			<string>4F3585AB-1110-42C5-B895-A0413A9BBAF3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

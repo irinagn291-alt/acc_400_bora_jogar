@@ -1,0 +1,1 @@
+PASS: 400 protocols; excluded cancelled and unfinished games; conservation of goals, outcomes and points; deterministic ties; Codable round trip.

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Envie um jogo da equipe ao calendário ao escolher Adicionar ao Calendário.</string>
+	<key>NSCalendarsWriteOnlyAccessUsageDescription</key>
+	<string>Salve o jogo escolhido sem ler seus outros eventos.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Ordene as quadras do diretório pela distância aproximada. Você também pode buscar por cidade.</string>
+</dict>
+</plist>

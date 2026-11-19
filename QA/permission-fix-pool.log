@@ -1,0 +1,189 @@
+Monitoring boot status for GF isolated manual-qa 1e44e553e28d45938f19f870c119e3da iPhone 18 Pro (286A7905-5758-4E6B-87AF-AA3634D9AA11).
+[2026-11-15 15:06:40 +0000] Status=1, isTerminal=NO, Elapsed=00:01.
+	Waiting on BackBoard
+
+[2026-11-15 15:06:40 +0000] Status=2, isTerminal=NO, Elapsed=00:01.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.MobileContainerManager.ContainerMigrator (ContainerMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:00 seconds
+
+[2026-11-15 15:06:41 +0000] Status=2, isTerminal=NO, Elapsed=00:02.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:00 seconds
+
+[2026-11-15 15:06:42 +0000] Status=2, isTerminal=NO, Elapsed=00:03.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:01 seconds
+
+[2026-11-15 15:06:43 +0000] Status=2, isTerminal=NO, Elapsed=00:04.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:02 seconds
+
+[2026-11-15 15:06:44 +0000] Status=2, isTerminal=NO, Elapsed=00:05.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:03 seconds
+
+[2026-11-15 15:06:45 +0000] Status=2, isTerminal=NO, Elapsed=00:06.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:04 seconds
+
+[2026-11-15 15:06:46 +0000] Status=2, isTerminal=NO, Elapsed=00:07.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:05 seconds
+
+[2026-11-15 15:06:47 +0000] Status=2, isTerminal=NO, Elapsed=00:08.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:06 seconds
+
+[2026-11-15 15:06:48 +0000] Status=2, isTerminal=NO, Elapsed=00:09.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:07 seconds
+
+[2026-11-15 15:06:49 +0000] Status=2, isTerminal=NO, Elapsed=00:10.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:08 seconds
+
+[2026-11-15 15:06:50 +0000] Status=2, isTerminal=NO, Elapsed=00:11.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:09 seconds
+
+[2026-11-15 15:06:51 +0000] Status=2, isTerminal=NO, Elapsed=00:12.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:10 seconds
+
+[2026-11-15 15:06:52 +0000] Status=2, isTerminal=NO, Elapsed=00:13.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.MobileSafari.migrator (MobileSafari.migrator)
+		Migration Elapsed:00:11 seconds
+
+[2026-11-15 15:06:53 +0000] Status=2, isTerminal=NO, Elapsed=00:14.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.MobileSafari.migrator (MobileSafari.migrator)
+		Migration Elapsed:00:12 seconds
+
+[2026-11-15 15:06:54 +0000] Status=2, isTerminal=NO, Elapsed=00:15.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.coreaudio.HAENDataMigrator (HAENDataMigrator.migrator)
+		Migration Elapsed:00:13 seconds
+
+[2026-11-15 15:06:55 +0000] Status=4294967295, isTerminal=YES, Elapsed=00:16.
+	Finished
+
+Skipped export for u73/test00TableUsesOnlyFinalProtocols(): no matching attachments
+
+Skipped export for u73/test01TiesAndRoundTrip(): no matching attachments
+
+Exported 8 attachments for: u73/test10OfflineJourney():
+File: 44EB0999-8185-409F-BA84-EE06B4D3151C.png, suggested name: "08-reference-after-profile-deletion_0_A3E5D816-D941-4B33-BF3B-D54124095600.png"
+File: DBB74972-899B-4F02-B7F6-BD3A057125B3.png, suggested name: "07-reviewed-chat_0_1D7C9750-4BA3-4043-84F2-C08FC1EDE9E3.png"
+File: DB1AFBB2-1274-42F0-AB99-228570D9950A.png, suggested name: "06-restored_0_7859BABE-1A51-4DC2-BE6D-A7360B723843.png"
+File: D8AF636D-5705-4E97-9592-E13656341C70.png, suggested name: "05-matchday_0_54BAB51E-31EA-43FA-88EB-6A9402EE232C.png"
+File: A45465D5-F7E0-428A-A223-8C363F20F35E.png, suggested name: "04-directory_0_81AB3A4D-3AF3-4797-93FC-A13D9990F18D.png"
+File: E001363B-DD7A-4891-AF88-480CFA80A76C.png, suggested name: "03-season_0_E813B3E7-4D61-424C-A4A8-0C093FDC0B08.png"
+File: 0C34711C-F62B-432B-8775-5A29380F3BFF.png, suggested name: "02-squad_0_B4BD1CDC-9D65-4AFE-BCBE-8E3FED6A7F9F.png"
+File: 63488597-4CAB-4C3F-8E2D-53B1E88F4704.png, suggested name: "01-first-launch_0_D1C0495C-D833-4F48-88AD-E0C6A2C0826C.png"
+
+Generated manifest file with attachment details: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/QA/iphone/Result-20261115-180638-attachments/manifest.json
+org.courtyard.borajogar.a73f2: 99730
+Detected file type from extension: PNG
+Note: No display specified. Defaulting to display: 6EFEA75C-AD31-4CBC-9C01-1CC9797DC373 (screenID: 1, name: LCD)
+Wrote screenshot to: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/QA/iphone/post-tests.png
+Monitoring boot status for GF isolated manual-qa a84ba10bff7f49f1a92ebe27cd98361d iPad Pro 13-inch (M5) (1668A2A0-C601-406D-A391-50AAC2FE35A8).
+[2026-11-15 15:08:40 +0000] Status=2, isTerminal=NO, Elapsed=00:01.
+	Waiting on Data Migration
+		Reason:(null)
+		Migration Elapsed:00:00 seconds
+
+[2026-11-15 15:08:40 +0000] Status=2, isTerminal=NO, Elapsed=00:01.
+	Waiting on Data Migration
+		Reason:Gathering plugins
+		Migration Elapsed:00:00 seconds
+
+[2026-11-15 15:08:41 +0000] Status=2, isTerminal=NO, Elapsed=00:02.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:01 seconds
+
+[2026-11-15 15:08:42 +0000] Status=2, isTerminal=NO, Elapsed=00:03.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:02 seconds
+
+[2026-11-15 15:08:43 +0000] Status=2, isTerminal=NO, Elapsed=00:04.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:03 seconds
+
+[2026-11-15 15:08:44 +0000] Status=2, isTerminal=NO, Elapsed=00:05.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:04 seconds
+
+[2026-11-15 15:08:45 +0000] Status=2, isTerminal=NO, Elapsed=00:06.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:05 seconds
+
+[2026-11-15 15:08:46 +0000] Status=2, isTerminal=NO, Elapsed=00:07.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:06 seconds
+
+[2026-11-15 15:08:47 +0000] Status=2, isTerminal=NO, Elapsed=00:08.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:07 seconds
+
+[2026-11-15 15:08:48 +0000] Status=2, isTerminal=NO, Elapsed=00:09.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:08 seconds
+
+[2026-11-15 15:08:49 +0000] Status=2, isTerminal=NO, Elapsed=00:10.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:09 seconds
+
+[2026-11-15 15:08:50 +0000] Status=2, isTerminal=NO, Elapsed=00:11.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.MobileSafari.migrator (MobileSafari.migrator)
+		Migration Elapsed:00:10 seconds
+
+[2026-11-15 15:08:51 +0000] Status=2, isTerminal=NO, Elapsed=00:12.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.cloudrecents.migrator (CloudRecentsMigrator.migrator)
+		Migration Elapsed:00:11 seconds
+
+[2026-11-15 15:08:52 +0000] Status=4294967295, isTerminal=YES, Elapsed=00:13.
+	Finished
+
+Skipped export for u73/test00TableUsesOnlyFinalProtocols(): no matching attachments
+
+Skipped export for u73/test01TiesAndRoundTrip(): no matching attachments
+
+Exported 8 attachments for: u73/test10OfflineJourney():
+File: A98E502C-205D-4C38-B111-58172C92DB2C.png, suggested name: "08-reference-after-profile-deletion_0_FB41A519-05DD-46C0-A94E-EB10D54932EE.png"
+File: 6412EF46-20F7-4DAA-B988-4CCF700DEE42.png, suggested name: "07-reviewed-chat_0_48E63DEC-5E56-4F8A-AFD4-68D1839D0A37.png"
+File: 112F73AC-BAA3-49D6-A45F-196E2D37BEDC.png, suggested name: "06-restored_0_7C90467D-BC3B-48D4-A978-FE4DEDD5BCBE.png"
+File: F9E0E713-69D4-4842-8C79-8755327DCA50.png, suggested name: "05-matchday_0_F9104416-2FF3-48A6-AF99-0A6122D1C10C.png"
+File: D453155F-735A-44B3-8E82-89FDE6A36DF1.png, suggested name: "04-directory_0_1CFE44C0-CA75-4716-B512-DA21EF83E7CE.png"
+File: 960C0CC7-0DAF-4C72-8FFA-ACB1829183BF.png, suggested name: "03-season_0_625DBB75-E7BC-48CE-818C-E01E4C6A3587.png"
+File: 04C382D6-285D-4FA9-9CD2-0AC8F896BD5A.png, suggested name: "02-squad_0_00C5950A-0D97-488C-9938-3AB6AC087BC6.png"
+File: 0C193261-7936-457B-BA9A-2C3C5B45F7D2.png, suggested name: "01-first-launch_0_896574A2-A90A-4AD3-B2B3-7995FAB5757B.png"
+
+Generated manifest file with attachment details: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/QA/ipad/Result-20261115-180838-attachments/manifest.json
+org.courtyard.borajogar.a73f2: 589
+Detected file type from extension: PNG
+Note: No display specified. Defaulting to display: 98243B56-96A7-4B3C-A1F5-3970208F48F6 (screenID: 1, name: LCD)
+Wrote screenshot to: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/QA/ipad/post-tests.png

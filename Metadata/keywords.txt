@@ -1,0 +1,1 @@
+football,squad,fixtures,kickoff,lineup,standings,goals,assists,attendance,venues

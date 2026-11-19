@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Füge auf Wunsch einen Teamtermin über Zum Kalender hinzufügen hinzu.</string>
+	<key>NSCalendarsWriteOnlyAccessUsageDescription</key>
+	<string>Speichere den gewählten Fußballtermin, ohne andere Kalenderereignisse zu lesen.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Sortiere das Platzverzeichnis nach ungefährer Entfernung. Du kannst auch nach Stadt suchen.</string>
+</dict>
+</plist>

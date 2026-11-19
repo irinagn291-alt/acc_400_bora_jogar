@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'Courtyard73' in project 'BoraJogar'
+➜ Explicit dependency on target 'Touchline73' in project 'BoraJogar'
+Target 'Touchline73' in project 'BoraJogar' (no dependencies)

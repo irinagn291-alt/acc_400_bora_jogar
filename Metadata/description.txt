@@ -1,0 +1,7 @@
+Bora Jogar helps you organise community football. Build your squad, save regular opponents and schedule fixtures with a kick-off time and venue. Select your line-up, record final scores and log goals and assists. Follow appearances, player contributions and league standings throughout the season.
+
+Share a team copy so players can see fixtures and line-ups, respond with their availability, request a place in the squad and submit messages. Participants send their responses back in a file, and the organiser reviews requests and approves messages for team chat.
+
+Search the built-in directory of Brazilian football venues offline or add your own court. Open a venue in Apple Maps, add a fixture to your calendar, or use optional local reminders and a kick-off countdown. Widgets show match and season information, and the medium widget lets you respond to the next fixture.
+
+Core tools work with data saved on your device and need no account.

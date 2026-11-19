@@ -1,0 +1,59 @@
+{
+  "" : {
+    "diagnostics" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Courtyard73-primary.dia",
+    "emit-module-dependencies" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Courtyard73-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Courtyard73-primary-emit-module.dia",
+    "pch" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Courtyard73-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Courtyard73-primary.swiftdeps"
+  },
+  "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Sources/Gate.swift" : {
+    "const-values" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Gate.swiftconstvalues",
+    "dependencies" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Gate.d",
+    "diagnostics" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Gate.dia",
+    "index-unit-output-path" : "/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Gate.o",
+    "llvm-bc" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Gate.bc",
+    "object" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Gate.o",
+    "swift-dependencies" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Gate.swiftdeps",
+    "swiftmodule" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Gate~partial.swiftmodule"
+  },
+  "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Sources/Orbit.swift" : {
+    "const-values" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Orbit.swiftconstvalues",
+    "dependencies" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Orbit.d",
+    "diagnostics" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Orbit.dia",
+    "index-unit-output-path" : "/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Orbit.o",
+    "llvm-bc" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Orbit.bc",
+    "object" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Orbit.o",
+    "swift-dependencies" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Orbit.swiftdeps",
+    "swiftmodule" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Orbit~partial.swiftmodule"
+  },
+  "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Sources/Panels.swift" : {
+    "const-values" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Panels.swiftconstvalues",
+    "dependencies" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Panels.d",
+    "diagnostics" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Panels.dia",
+    "index-unit-output-path" : "/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Panels.o",
+    "llvm-bc" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Panels.bc",
+    "object" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Panels.o",
+    "swift-dependencies" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Panels.swiftdeps",
+    "swiftmodule" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Panels~partial.swiftmodule"
+  },
+  "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Sources/Rook.swift" : {
+    "const-values" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Rook.swiftconstvalues",
+    "dependencies" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Rook.d",
+    "diagnostics" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Rook.dia",
+    "index-unit-output-path" : "/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Rook.o",
+    "llvm-bc" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Rook.bc",
+    "object" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Rook.o",
+    "swift-dependencies" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Rook.swiftdeps",
+    "swiftmodule" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/Artifacts/DeviceDerived/Build/Intermediates.noindex/BoraJogar.build/Match-iphoneos/Courtyard73.build/Objects-normal/arm64/Rook~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,7 @@
+Bora Jogar helps you run a community soccer team. Build your roster, save opponents, and schedule matches with a kickoff time and location. Set your lineup, record final scores, and log goals and assists. Follow the standings and see each player's appearances and contributions over the season.
+
+Share a copy of your team so players can view matches and lineups, respond with their availability, request a roster spot, and submit chat messages. Participants send responses back in a file, and the organizer reviews requests and approves messages for team chat.
+
+Search the built-in directory of Brazilian soccer venues offline or add your own court. Open a venue in Apple Maps, add matches to your calendar, or use optional local reminders and a kickoff countdown. Widgets show match and season information, and the medium widget lets you RSVP for the next match.
+
+Core tools use data stored on your device and work without an account.

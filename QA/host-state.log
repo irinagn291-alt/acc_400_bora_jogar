@@ -1,0 +1,1 @@
+PASS: actual local state methods; premoderation, approval, report/hide, link rejection, local RSVP, participant queues, organizer write guard; no exclusivity crash.

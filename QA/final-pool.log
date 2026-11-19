@@ -1,0 +1,159 @@
+Monitoring boot status for GF isolated manual-qa 2480095666294ca5aed7047c9ea96d8a iPhone 18 Pro (1D830FE8-5AFD-40A9-B48E-3A45AB4F6E38).
+[2026-11-15 14:55:47 +0000] Status=1, isTerminal=NO, Elapsed=00:01.
+	Waiting on BackBoard
+
+[2026-11-15 14:55:48 +0000] Status=2, isTerminal=NO, Elapsed=00:01.
+	Waiting on Data Migration
+		Reason:Gathering plugins
+		Migration Elapsed:00:00 seconds
+
+[2026-11-15 14:55:48 +0000] Status=2, isTerminal=NO, Elapsed=00:02.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:00 seconds
+
+[2026-11-15 14:55:49 +0000] Status=2, isTerminal=NO, Elapsed=00:03.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:01 seconds
+
+[2026-11-15 14:55:50 +0000] Status=2, isTerminal=NO, Elapsed=00:04.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:02 seconds
+
+[2026-11-15 14:55:51 +0000] Status=2, isTerminal=NO, Elapsed=00:05.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:03 seconds
+
+[2026-11-15 14:55:52 +0000] Status=2, isTerminal=NO, Elapsed=00:06.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:04 seconds
+
+[2026-11-15 14:55:53 +0000] Status=2, isTerminal=NO, Elapsed=00:07.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:05 seconds
+
+[2026-11-15 14:55:54 +0000] Status=2, isTerminal=NO, Elapsed=00:08.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:06 seconds
+
+[2026-11-15 14:55:55 +0000] Status=2, isTerminal=NO, Elapsed=00:09.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:07 seconds
+
+[2026-11-15 14:55:56 +0000] Status=2, isTerminal=NO, Elapsed=00:10.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:08 seconds
+
+[2026-11-15 14:55:57 +0000] Status=2, isTerminal=NO, Elapsed=00:11.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.-0LaunchServicesMigrator (00LaunchServicesMigrator.migrator, user-agnostic)
+		Migration Elapsed:00:09 seconds
+
+[2026-11-15 14:55:58 +0000] Status=2, isTerminal=NO, Elapsed=00:12.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.WebBookmarks.migrator (WebBookmarks.migrator)
+		Migration Elapsed:00:10 seconds
+
+[2026-11-15 14:55:59 +0000] Status=2, isTerminal=NO, Elapsed=00:13.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.MobileSafari.migrator (MobileSafari.migrator)
+		Migration Elapsed:00:11 seconds
+
+[2026-11-15 14:56:00 +0000] Status=2, isTerminal=NO, Elapsed=00:14.
+	Waiting on Data Migration
+		Reason:Running plugin com.apple.facetime.migrator (FaceTimeMigrator.migrator)
+		Migration Elapsed:00:12 seconds
+
+[2026-11-15 14:56:01 +0000] Status=4294967295, isTerminal=YES, Elapsed=00:15.
+	Finished
+
+Skipped export for u73/test00TableUsesOnlyFinalProtocols(): no matching attachments
+
+Skipped export for u73/test01TiesAndRoundTrip(): no matching attachments
+
+Exported 75 attachments for: u73/test10OfflineJourney():
+File: 6B6E1030-504C-4AD7-B2B6-473AE0AC463A.txt, suggested name: "App UI hierarchy for org.courtyard.borajogar_0_F8F27490-614E-408D-9296-7CF0F72C9B59.a73f2"
+File: FFFB4410-B948-4104-AFB3-3F8C041F3C82, suggested name: "UI Snapshot 2026-11-15 at 05.57.31 PM"
+File: 27126CBE-BEA8-4973-B01F-BFA9B2D0D11B.txt, suggested name: "Debug description for `"Enable" Button`_0_FFB271CC-10BC-48EC-AE63-54B24EF25B6D.txt"
+File: 21F6369A-EAC7-4295-9CC5-9FFE593C5263.txt, suggested name: "Debug description for `"Enable" Button`_0_38E0C989-917C-4C76-9A3A-2C801C62BD93.txt"
+File: 0FB8E300-AD95-477B-9490-179D9D9C9694.txt, suggested name: "Debug description for `"Enable" Button`_0_F0272C22-309A-488F-BF28-B752D6ACA5CC.txt"
+File: 2E4F2013-8D0A-49E0-B874-CEF35F86E9A4.txt, suggested name: "Debug description for `"Enable" Button`_0_0E397139-E237-4F00-9843-DCA123D0F629.txt"
+File: 8F8502A1-6D14-4EAA-A3DD-AE115FBB3F27, suggested name: "UI Snapshot 2026-11-15 at 05.57.27 PM"
+File: AC1F946C-7DAF-4F35-AFF0-F32E34249D2B, suggested name: "Synthesized Event 2026-11-15 at 05.57.27 PM"
+File: C48740AE-E2D4-4AC4-B949-ADBB7194C338, suggested name: "UI Snapshot 2026-11-15 at 05.57.26 PM"
+File: 8048E105-A8A1-44CA-8BA8-354CF9694F6A, suggested name: "Synthesized Event 2026-11-15 at 05.57.26 PM"
+File: 19374151-0AAD-4FC7-A89F-9A69F1C0EC0B, suggested name: "UI Snapshot 2026-11-15 at 05.57.24 PM"
+File: B2532861-ADBE-4875-8470-350B2AA65647, suggested name: "Synthesized Event 2026-11-15 at 05.57.24 PM"
+File: C48B8F24-A331-49B8-AE91-A26E7643330E, suggested name: "UI Snapshot 2026-11-15 at 05.57.23 PM"
+File: D9E6F60E-7DC6-4D8A-A6B3-CD1F6BB43B7D, suggested name: "Synthesized Event 2026-11-15 at 05.57.23 PM"
+File: 174E5C41-E8DB-4C51-A74C-5EAC49FD2135, suggested name: "UI Snapshot 2026-11-15 at 05.57.21 PM"
+File: 05E9A1F0-9CF9-4EB7-A53A-24B2E7770529, suggested name: "Synthesized Event 2026-11-15 at 05.57.22 PM"
+File: 5E1402A3-39DF-4FAE-8554-223F7EDEFD0D.png, suggested name: "07-reviewed-chat_0_CAFE1ABD-2BD9-4CBC-A45E-92BA9F998849.png"
+File: 2D914BEB-C116-41BC-BDF7-FE52D5CC8FFD, suggested name: "UI Snapshot 2026-11-15 at 05.57.21 PM"
+File: 3261733C-CE66-461A-923E-81F030FD0617, suggested name: "Synthesized Event 2026-11-15 at 05.57.21 PM"
+File: 8BA3B3A2-40BE-4681-A3A8-8348B0544C44, suggested name: "UI Snapshot 2026-11-15 at 05.57.19 PM"
+File: EEB0BF70-D7B3-4079-B6D6-EED0FCF30354, suggested name: "Synthesized Event 2026-11-15 at 05.57.20 PM"
+File: 466C63D7-1EBE-4E9D-976A-C67A1A8CB274, suggested name: "UI Snapshot 2026-11-15 at 05.57.17 PM"
+File: 8698FDF5-2462-4653-868F-7DB79612FD51, suggested name: "Synthesized Event 2026-11-15 at 05.57.18 PM"
+File: E5A018C9-F64D-4A0A-B8DE-A67420E5D7D8, suggested name: "UI Snapshot 2026-11-15 at 05.57.17 PM"
+File: ABADCB21-9F21-4E6A-998D-D7A327C1BAD1, suggested name: "Synthesized Event 2026-11-15 at 05.57.17 PM"
+File: 7DCFECEE-46BE-4D93-B56D-197B0E05F20E, suggested name: "UI Snapshot 2026-11-15 at 05.57.16 PM"
+File: 3DE204AA-4F58-4097-93DA-4B061B062177, suggested name: "Synthesized Event 2026-11-15 at 05.57.17 PM"
+File: C9E251AE-4C42-4369-B7A6-4C4C1E9B6F8B, suggested name: "UI Snapshot 2026-11-15 at 05.57.13 PM"
+File: 4C776845-E1BA-47CC-AB4D-24EB045753FB, suggested name: "Synthesized Event 2026-11-15 at 05.57.13 PM"
+File: C78600EE-9C3A-482B-AED4-6EE0559186D3, suggested name: "UI Snapshot 2026-11-15 at 05.57.12 PM"
+File: D2BCBE66-2039-4BF5-A605-F1D7269FE3F3, suggested name: "Synthesized Event 2026-11-15 at 05.57.13 PM"
+File: FAC4CCA0-EA57-494C-A97C-0CB16F07B385, suggested name: "UI Snapshot 2026-11-15 at 05.57.12 PM"
+File: 5607B981-D167-42F1-9AA5-6BE6E800A205, suggested name: "Synthesized Event 2026-11-15 at 05.57.12 PM"
+File: 1FE82F83-973A-4807-8EF4-0A5C82D29C01, suggested name: "UI Snapshot 2026-11-15 at 05.57.11 PM"
+File: C1CCE46E-93FD-48AF-8E48-F06B71BD36A5, suggested name: "Synthesized Event 2026-11-15 at 05.57.11 PM"
+File: BF6891E9-23EC-4298-BDEB-D863300567F1, suggested name: "UI Snapshot 2026-11-15 at 05.57.10 PM"
+File: DC6115B7-81E2-4F54-86F7-6F779B765160, suggested name: "Synthesized Event 2026-11-15 at 05.57.10 PM"
+File: 1310E9FB-BE44-4150-BBD6-404AEC04564C.png, suggested name: "06-restored_0_DF2719AB-5786-422F-BE97-620C6C6CA5B1.png"
+File: E108316A-E39F-4571-876A-5B9C8D9BAF56.png, suggested name: "05-matchday_0_3B09900F-CE09-439A-87E1-09E9EE0B26A6.png"
+File: 134680F7-98C9-4935-9C41-6680439D1583, suggested name: "UI Snapshot 2026-11-15 at 05.57.03 PM"
+File: D9D5F23A-8BBA-4513-AAA2-C33DC297AF78, suggested name: "Synthesized Event 2026-11-15 at 05.57.03 PM"
+File: 021B9CC5-9C4A-4AD2-8FF1-B81EC8D291D0, suggested name: "UI Snapshot 2026-11-15 at 05.57.01 PM"
+File: 76D81E2B-AC89-43A5-BCFE-C152FB8703CF, suggested name: "Synthesized Event 2026-11-15 at 05.57.01 PM"
+File: 47FFD1A1-E8DB-46D6-9BF6-5A373690DACB, suggested name: "UI Snapshot 2026-11-15 at 05.56.58 PM"
+File: 32539B4D-81F9-45FE-98A9-443D72638563, suggested name: "Synthesized Event 2026-11-15 at 05.56.58 PM"
+File: 7D83FD28-885D-4BDD-9016-650FDF843EEB, suggested name: "UI Snapshot 2026-11-15 at 05.56.57 PM"
+File: D00AA667-6940-40B8-99C9-03C10ABB1564, suggested name: "Synthesized Event 2026-11-15 at 05.56.58 PM"
+File: D93B91D5-75DD-4514-BEA2-EB649CA5D9DA, suggested name: "Synthesized Event 2026-11-15 at 05.56.57 PM"
+File: A6E6E9DE-A58F-46F6-9C20-106FF838DD44, suggested name: "Synthesized Event 2026-11-15 at 05.56.56 PM"
+File: E573F7F2-7DB9-4282-923E-2263E07A8198, suggested name: "Synthesized Event 2026-11-15 at 05.56.55 PM"
+File: 92B1C22C-6C05-401C-8902-8434E3171E5B, suggested name: "Synthesized Event 2026-11-15 at 05.56.53 PM"
+File: 792B068E-7893-4373-BBB4-A891FEE00D69, suggested name: "Synthesized Event 2026-11-15 at 05.56.53 PM"
+File: CC2691C8-FA9E-4D65-A7A5-9FE24B3ADC53, suggested name: "Synthesized Event 2026-11-15 at 05.56.51 PM"
+File: C47C66BF-99B8-4021-9D23-C59B0FDA59F8.png, suggested name: "04-directory_0_09DFC333-0473-4A49-B7E1-05E8EA35327C.png"
+File: BC09E1E5-139C-41FD-BB68-DE7F78E61C31, suggested name: "Synthesized Event 2026-11-15 at 05.56.48 PM"
+File: 9CBED448-7907-4A38-9763-DF5F31C67A53.png, suggested name: "03-season_0_EF6ADC35-F42E-42AB-B76F-A5E12B586435.png"
+File: C77732FC-387C-4B92-A7D2-F41056F4E74A, suggested name: "Synthesized Event 2026-11-15 at 05.56.46 PM"
+File: 5705B880-4AD3-4832-8595-6484EC91F796, suggested name: "Synthesized Event 2026-11-15 at 05.56.45 PM"
+File: 391E35EB-746C-41C8-984F-A9FAE5940921, suggested name: "Synthesized Event 2026-11-15 at 05.56.45 PM"
+File: 6B28F2D3-F8BA-407C-85B7-1ECDA57CDBC7, suggested name: "Synthesized Event 2026-11-15 at 05.56.44 PM"
+File: 935DF3A5-AC63-443C-A87A-4D655C14624A, suggested name: "Synthesized Event 2026-11-15 at 05.56.42 PM"
+File: 038DEABF-7B1F-4558-8445-8BB8E06811F8.png, suggested name: "02-squad_0_67A9CF85-9FD5-402D-896A-33A56C642331.png"
+File: 612FE712-DD66-4D49-9FE6-4A01D11C868D, suggested name: "Synthesized Event 2026-11-15 at 05.56.40 PM"
+File: 768F4830-0ECA-4BE2-8692-440A631695ED, suggested name: "Synthesized Event 2026-11-15 at 05.56.40 PM"
+File: B34FD02A-DA63-4962-9EF0-289369F07808, suggested name: "Synthesized Event 2026-11-15 at 05.56.39 PM"
+File: 9DE02A69-7B30-416F-922D-03388F8AA072, suggested name: "Synthesized Event 2026-11-15 at 05.56.38 PM"
+File: 783010D5-1A8B-415C-BCA9-C3BF1ED774F8, suggested name: "Synthesized Event 2026-11-15 at 05.56.36 PM"
+File: 1BCEE318-966C-4701-8485-FC2C86AC70D3, suggested name: "Synthesized Event 2026-11-15 at 05.56.34 PM"
+File: 089CBC07-64EE-4838-870A-69758DF8A86B, suggested name: "Synthesized Event 2026-11-15 at 05.56.34 PM"
+File: 02D1CB70-CF51-456F-B373-FC59A51C40DD, suggested name: "Synthesized Event 2026-11-15 at 05.56.32 PM"
+File: 8AF68FE3-BBC9-40DE-A0F3-BDDD19AC7DC2, suggested name: "Synthesized Event 2026-11-15 at 05.56.31 PM"
+File: 9B555BCC-C54D-48B6-B7EB-96564306405A.png, suggested name: "01-first-launch_0_48DFCE8F-FF34-4F07-BB8B-6C2C5A5C0E6B.png"
+File: 239C88C2-A24C-4DB7-B1C1-2D8499F0B528.mp4, suggested name: "Screen Recording 2026-11-15 at 05.56.25 PM.mp4"
+File: BBE170BD-4F96-4714-993E-6DEFB83B631A.txt, suggested name: "App UI hierarchy for org.courtyard.borajogar_0_93D025C4-B8CB-433D-A851-DF60BE757DB9.a73f2"
+File: 5CE3E6E4-3677-4E3E-B6E1-320525EC762D, suggested name: "UI Snapshot 2026-11-15 at 05.57.33 PM"
+
+Generated manifest file with attachment details: /Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/QA/iphone/Result-20261115-175546-attachments/manifest.json

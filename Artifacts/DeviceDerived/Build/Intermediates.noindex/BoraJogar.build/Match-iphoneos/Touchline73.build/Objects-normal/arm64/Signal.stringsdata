@@ -1,0 +1,56 @@
+{
+  "source": "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Sources/Signal.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "—",
+        "location": {
+          "startingColumn": 164,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld : %lld",
+        "location": {
+          "startingColumn": 177,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 258,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 334,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 382,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bora Jogar",
+        "location": {
+          "startingColumn": 136,
+          "startingLine": 25
+        }
+      }
+    ]
+  },
+  "version": 1
+}

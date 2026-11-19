@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Añade un partido al calendario cuando elijas Añadir al calendario.</string>
+	<key>NSCalendarsWriteOnlyAccessUsageDescription</key>
+	<string>Guarda el partido elegido sin leer tus otros eventos.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Ordena las canchas por distancia aproximada. También puedes buscar por ciudad.</string>
+</dict>
+</plist>

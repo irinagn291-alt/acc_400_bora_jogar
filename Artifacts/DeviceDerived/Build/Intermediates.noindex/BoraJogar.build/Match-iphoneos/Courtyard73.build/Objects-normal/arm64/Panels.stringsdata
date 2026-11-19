@@ -1,0 +1,176 @@
+{
+  "source": "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/07_betano/03_bora_jogar/BoraJogar/Sources/Panels.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Bora Jogar",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "×",
+        "location": {
+          "startingColumn": 366,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@: %lld",
+        "location": {
+          "startingColumn": 353,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld : %lld",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@: %lld",
+        "location": {
+          "startingColumn": 473,
+          "startingLine": 98
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@: %lld",
+        "location": {
+          "startingColumn": 619,
+          "startingLine": 98
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@: %lld",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld′",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@: %lld",
+        "location": {
+          "startingColumn": 153,
+          "startingLine": 123
+        }
+      },
+      {
+        "comment": "",
+        "key": " km",
+        "location": {
+          "startingColumn": 419,
+          "startingLine": 131
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 430,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 450,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 467,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 486,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 504,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 520,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 536,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 554,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 97,
+          "startingLine": 161
+        }
+      },
+      {
+        "comment": "",
+        "key": "1.3.2 · 73",
+        "location": {
+          "startingColumn": 137,
+          "startingLine": 187
+        }
+      }
+    ]
+  },
+  "version": 1
+}

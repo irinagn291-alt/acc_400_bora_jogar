@@ -1,0 +1,45 @@
+{
+  "devicesAndConfigurations" : [
+    {
+      "device" : {
+        "architecture" : "arm64",
+        "deviceId" : "286A7905-5758-4E6B-87AF-AA3634D9AA11",
+        "deviceName" : "GF isolated manual-qa 1e44e553e28d45938f19f870c119e3da iPhone 18 Pro",
+        "modelName" : "iPhone 18 Pro",
+        "osBuildNumber" : "24B8117",
+        "osVersion" : "27.2",
+        "platform" : "iOS Simulator"
+      },
+      "expectedFailures" : 0,
+      "failedTests" : 0,
+      "passedTests" : 3,
+      "skippedTests" : 0,
+      "testPlanConfiguration" : {
+        "configurationId" : "1",
+        "configurationName" : "Test Scheme Action"
+      }
+    }
+  ],
+  "environmentDescription" : "Courtyard73 · Built with macOS 27.2.1",
+  "expectedFailures" : 0,
+  "failedTests" : 0,
+  "finishTime" : 1794755314.959,
+  "passedTests" : 3,
+  "result" : "Passed",
+  "runtimeWarnings" : [
+
+  ],
+  "skippedTests" : 0,
+  "startTime" : 1794755217.089,
+  "statistics" : [
+
+  ],
+  "testFailures" : [
+
+  ],
+  "title" : "Test - Courtyard73",
+  "topInsights" : [
+
+  ],
+  "totalTestCount" : 3
+}

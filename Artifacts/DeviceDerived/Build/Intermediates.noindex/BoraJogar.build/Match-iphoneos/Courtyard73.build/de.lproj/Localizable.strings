@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> goals</key>
+	<string> Tore</string>
+	<key>3 points for a win, 1 for a draw. Ties: goal difference, goals scored, team name. Cancelled matches do not count.</key>
+	<string>Sieg: 3 Punkte, Unentschieden: 1. Gleichstand: Tordifferenz, erzielte Tore, Teamname. Abgesagte Spiele zählen nicht.</string>
+	<key>A court for every game.</key>
+	<string>Ein Platz für jedes Spiel.</string>
+	<key>A good game starts with respect.</key>
+	<string>Ein gutes Spiel beginnt mit Respekt.</string>
+	<key>Add a profile name first.</key>
+	<string>Füge zuerst einen Profilnamen hinzu.</string>
+	<key>Add court</key>
+	<string>Platz hinzufügen</string>
+	<key>Add opponent</key>
+	<string>Gegner hinzufügen</string>
+	<key>Add player</key>
+	<string>Spieler hinzufügen</string>
+	<key>Add players in Squad.</key>
+	<string>Füge Spieler unter Kader hinzu.</string>
+	<key>Add to Calendar</key>
+	<string>Zum Kalender hinzufügen</string>
+	<key>Add your name and sign in with Apple first.</key>
+	<string>Füge deinen Namen hinzu und melde dich mit Apple an.</string>
+	<key>Add your own court</key>
+	<string>Eigenen Platz hinzufügen</string>
+	<key>Address</key>
+	<string>Adresse</string>
+	<key>Approve</key>
+	<string>Freigeben</string>
+	<key>Approved messages</key>
+	<string>Freigegebene Nachrichten</string>
+	<key>Approximate location</key>
+	<string>Ungefährer Standort</string>
+	<key>Assist</key>
+	<string>Vorlage</string>
+	<key>Attendance syncs when the app opens. Unsynced responses stay on this device.</key>
+	<string>Teilnahmen werden beim Öffnen synchronisiert. Ungesendete Antworten bleiben auf diesem Gerät.</string>
+	<key>Away goals</key>
+	<string>Auswärtstore</string>
+	<key>Back up or restore organizer keys</key>
+	<string>Organisatorschlüssel sichern oder wiederherstellen</string>
+	<key>Be kind. Do not share personal contacts, external links or harmful content. Organizers review messages before publication, reject content, handle reports and block participants. Use Report below a message to reach your organizer.</key>
+	<string>Sei freundlich. Teile keine Kontaktdaten, externen Links oder schädlichen Inhalte. Organisatoren prüfen Nachrichten vor Veröffentlichung, lehnen Inhalte ab, bearbeiten Meldungen und sperren Teilnehmer. Nutze Melden unter der Nachricht.</string>
+	<key>Block player</key>
+	<string>Spieler sperren</string>
+	<key>Bora Jogar</key>
+	<string>Bora Jogar</string>
+	<key>Build a squad</key>
+	<string>Kader aufbauen</string>
+	<key>Can't play</key>
+	<string>Bin nicht dabei</string>
+	<key>Cancel</key>
+	<string>Abbrechen</string>
+	<key>Cancel match</key>
+	<string>Spiel absagen</string>
+	<key>Cancel this match?</key>
+	<string>Dieses Spiel absagen?</string>
+	<key>Cancelled</key>
+	<string>Abgesagt</string>
+	<key>Choose</key>
+	<string>Auswählen</string>
+	<key>Choose a court, set kickoff and bring the squad.</key>
+	<string>Wähle einen Platz, lege den Anstoß fest und bring den Kader zusammen.</string>
+	<key>City</key>
+	<string>Stadt</string>
+	<key>Cloud conflict</key>
+	<string>iCloud-Konflikt</string>
+	<key>Cloud deletion did not finish. Your profile is kept so you can retry.</key>
+	<string>Das Löschen in iCloud wurde nicht abgeschlossen. Dein Profil bleibt für einen erneuten Versuch erhalten.</string>
+	<key>Community football organized with Bora Jogar.</key>
+	<string>Freizeitfußball organisiert mit Bora Jogar.</string>
+	<key>Coordinates are optional to obtain from Maps, but required to place your court accurately in this directory.</key>
+	<string>Du kannst Koordinaten aus Karten übernehmen. Sie sind zur Positionierung des Platzes erforderlich.</string>
+	<key>Could not accept invitation.</key>
+	<string>Einladung konnte nicht angenommen werden.</string>
+	<key>Could not create a team invitation.</key>
+	<string>Teameinladung konnte nicht erstellt werden.</string>
+	<key>Could not find your location. Search by city instead.</key>
+	<string>Standort nicht gefunden. Suche nach einer Stadt.</string>
+	<key>Could not protect the organizer key.</key>
+	<string>Organisatorschlüssel konnte nicht geschützt werden.</string>
+	<key>Could not save on this device.</key>
+	<string>Speichern auf diesem Gerät fehlgeschlagen.</string>
+	<key>Court</key>
+	<string>Platz</string>
+	<key>Court &amp; season</key>
+	<string>Platz und Saison</string>
+	<key>Court details</key>
+	<string>Platzdetails</string>
+	<key>Court details are an offline directory. Contact the venue yourself to check access; creating a match does not reserve a court.</key>
+	<string>Die Platzdaten sind ein Offline-Verzeichnis. Kläre den Zugang selbst; ein Spiel zu erstellen reserviert keinen Platz.</string>
+	<key>Court name</key>
+	<string>Platzname</string>
+	<key>Courts</key>
+	<string>Plätze</string>
+	<key>Create</key>
+	<string>Erstellen</string>
+	<key>Create a season to group fixtures and build a table from final scores.</key>
+	<string>Erstelle eine Saison, um Spiele zu gruppieren und eine Tabelle aus Endergebnissen zu berechnen.</string>
+	<key>Create a team on Matchday first.</key>
+	<string>Erstelle zuerst ein Team unter Spieltag.</string>
+	<key>Create another team</key>
+	<string>Weiteres Team erstellen</string>
+	<key>Create match</key>
+	<string>Spiel erstellen</string>
+	<key>Create season</key>
+	<string>Saison erstellen</string>
+	<key>Create team</key>
+	<string>Team erstellen</string>
+	<key>Create your team</key>
+	<string>Erstelle dein Team</string>
+	<key>D</key>
+	<string>U</string>
+	<key>Data stays on this device until you enable iCloud. Teams and approved chat are shared only through team invitations. No tracking, advertising, analytics or own server is used.</key>
+	<string>Daten bleiben auf diesem Gerät, bis du iCloud aktivierst. Teams und freigegebene Chats werden nur über Einladungen geteilt. Kein Tracking, Werbung, Analyse oder eigener Server.</string>
+	<key>Defense</key>
+	<string>Abwehr</string>
+	<key>Delete profile &amp; data</key>
+	<string>Profil und Daten löschen</string>
+	<key>Delete profile removes your device data and your original iCloud messages; shared devices refresh deleted content on their next sync. Deletion requires a connection if iCloud was enabled. You may also remove Bora Jogar's Apple sign-in in device Settings.</key>
+	<string>Profil löschen entfernt Gerätedaten und deine ursprünglichen iCloud-Nachrichten. Geteilte Geräte aktualisieren gelöschte Inhalte bei der nächsten Synchronisierung. Nach iCloud-Aktivierung ist eine Verbindung erforderlich. Du kannst die Apple-Anmeldung in den Einstellungen entfernen.</string>
+	<key>Delete your profile, local data and your iCloud team records? This cannot be undone.</key>
+	<string>Profil, lokale Daten und deine iCloud-Teamdaten löschen? Dies kann nicht rückgängig gemacht werden.</string>
+	<key>Directory</key>
+	<string>Verzeichnis</string>
+	<key>Done</key>
+	<string>Fertig</string>
+	<key>Enable</key>
+	<string>Aktivieren</string>
+	<key>End countdown</key>
+	<string>Countdown beenden</string>
+	<key>Every game counts.</key>
+	<string>Jedes Spiel zählt.</string>
+	<key>Export device data</key>
+	<string>Gerätedaten exportieren</string>
+	<key>Final score</key>
+	<string>Endergebnis</string>
+	<key>Finding nearby courts…</key>
+	<string>Plätze in der Nähe werden gesucht…</string>
+	<key>Fixture</key>
+	<string>Begegnung</string>
+	<key>For team help, contact the organizer through your invitation. Export your data to keep a personal copy.</key>
+	<string>Für Teamhilfe kontaktiere den Organisator über deine Einladung. Exportiere deine Daten als persönliche Kopie.</string>
+	<key>Forward</key>
+	<string>Sturm</string>
+	<key>Free, without ads or purchases. Designed for community football.</key>
+	<string>Kostenlos, ohne Werbung oder Käufe. Für Freizeitfußball entwickelt.</string>
+	<key>Friendly match</key>
+	<string>Freundschaftsspiel</string>
+	<key>GA</key>
+	<string>GT</string>
+	<key>GD</key>
+	<string>TD</string>
+	<key>GET YOUR TEAM TOGETHER</key>
+	<string>BRING DEIN TEAM ZUSAMMEN</string>
+	<key>GF</key>
+	<string>T</string>
+	<key>Get a reminder the day before kickoff. Your match calendar works if you decline.</key>
+	<string>Erhalte am Vortag eine Erinnerung. Der Spielkalender funktioniert auch ohne Erlaubnis.</string>
+	<key>Goal log</key>
+	<string>Torprotokoll</string>
+	<key>Goalkeeper</key>
+	<string>Torwart</string>
+	<key>Going</key>
+	<string>Dabei</string>
+	<key>Have an invitation? Open the iCloud link from your organizer.</key>
+	<string>Hast du eine Einladung? Öffne den iCloud-Link deines Organisators.</string>
+	<key>Hide author</key>
+	<string>Autor ausblenden</string>
+	<key>Home goals</key>
+	<string>Heimtore</string>
+	<key>Home team</key>
+	<string>Heimteam</string>
+	<key>I'm in</key>
+	<string>Bin dabei</string>
+	<key>Invalid team key.</key>
+	<string>Ungültiger Teamschlüssel.</string>
+	<key>Invitation accepted</key>
+	<string>Einladung angenommen</string>
+	<key>Invitations</key>
+	<string>Einladungen</string>
+	<key>Invitations use iCloud. The organizer reviews membership and team messages. No public chat or live push service.</key>
+	<string>Einladungen nutzen iCloud. Der Organisator prüft Beitritte und Nachrichten. Kein öffentlicher Chat oder Echtzeit-Pushdienst.</string>
+	<key>Invite with iCloud link</key>
+	<string>Mit iCloud-Link einladen</string>
+	<key>Keep teams you know here, then select them when creating a match. Share invitations through the system sheet.</key>
+	<string>Speichere bekannte Teams und wähle sie beim Erstellen eines Spiels. Teile Einladungen über das Systemmenü.</string>
+	<key>Keep this device's version</key>
+	<string>Version dieses Geräts behalten</string>
+	<key>Kickoff</key>
+	<string>Anstoß</string>
+	<key>L</key>
+	<string>N</string>
+	<key>Last result</key>
+	<string>Letztes Ergebnis</string>
+	<key>Latitude</key>
+	<string>Breitengrad</string>
+	<key>Less planning.
+More playing.</key>
+	<string>Weniger planen.
+Mehr spielen.</string>
+	<key>Lineup</key>
+	<string>Aufstellung</string>
+	<key>Links and contact details are not allowed in chat.</key>
+	<string>Links und Kontaktdaten sind im Chat nicht erlaubt.</string>
+	<key>Live Activities are disabled in Settings.</key>
+	<string>Live-Aktivitäten sind in den Einstellungen deaktiviert.</string>
+	<key>Local data could not be read. Keep a copy before deleting the app.</key>
+	<string>Lokale Daten konnten nicht gelesen werden. Sichere eine Kopie, bevor du die App löschst.</string>
+	<key>Local only</key>
+	<string>Nur lokal</string>
+	<key>Local reminders for tomorrow's match and newly confirmed opponents. No real-time delivery is promised.</key>
+	<string>Lokale Erinnerungen an morgige Spiele und neu bestätigte Gegner. Keine Echtzeitzustellung zugesagt.</string>
+	<key>Location is unavailable. Search by city instead.</key>
+	<string>Standort nicht verfügbar. Suche nach einer Stadt.</string>
+	<key>Longitude</key>
+	<string>Längengrad</string>
+	<key>Map</key>
+	<string>Karte</string>
+	<key>Map tiles need a connection. The court list remains available offline.</key>
+	<string>Karten benötigen eine Verbindung. Die Platzliste bleibt offline verfügbar.</string>
+	<key>Match</key>
+	<string>Spiel</string>
+	<key>Match calendar</key>
+	<string>Spielkalender</string>
+	<key>Match details</key>
+	<string>Spieldetails</string>
+	<key>Match not found.</key>
+	<string>Spiel nicht gefunden.</string>
+	<key>Match reminders</key>
+	<string>Spielerinnerungen</string>
+	<key>Match tomorrow</key>
+	<string>Morgen ist Spieltag</string>
+	<key>Matchday</key>
+	<string>Spieltag</string>
+	<key>Maybe</key>
+	<string>Vielleicht</string>
+	<key>Membership request</key>
+	<string>Beitrittsanfrage</string>
+	<key>Message for review</key>
+	<string>Nachricht zur Prüfung</string>
+	<key>Message report</key>
+	<string>Nachrichtenmeldung</string>
+	<key>Messages appear after organizer approval. No links, personal contacts or abusive content. Reports hide the author immediately on your device.</key>
+	<string>Nachrichten erscheinen nach Freigabe durch den Organisator. Keine Links, Kontaktdaten oder beleidigenden Inhalte. Meldungen blenden den Autor sofort auf deinem Gerät aus.</string>
+	<key>Midfield</key>
+	<string>Mittelfeld</string>
+	<key>Minute</key>
+	<string>Minute</string>
+	<key>Minutes</key>
+	<string>Minuten</string>
+	<key>NEXT KICKOFF</key>
+	<string>NÄCHSTER ANSTOSS</string>
+	<key>Name</key>
+	<string>Name</string>
+	<key>Nearby</key>
+	<string>In der Nähe</string>
+	<key>No matches yet.</key>
+	<string>Noch keine Spiele.</string>
+	<key>No response</key>
+	<string>Keine Antwort</string>
+	<key>No upcoming match</key>
+	<string>Kein anstehendes Spiel</string>
+	<key>None</key>
+	<string>Keine</string>
+	<key>Nothing waiting for review.</key>
+	<string>Nichts zur Prüfung offen.</string>
+	<key>Notifications are disabled. You can enable them in Settings.</key>
+	<string>Mitteilungen sind deaktiviert. Aktiviere sie in den Einstellungen.</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Offline directory · approximate map pins. Access, opening hours and availability must be confirmed with the venue.</key>
+	<string>Offline-Verzeichnis · ungefähre Kartenpunkte. Zugang, Öffnungszeiten und Verfügbarkeit beim Betreiber prüfen.</string>
+	<key>Offline tools work without an account. iCloud is needed for shared teams; Apple sign-in identifies your chat profile. Changes are checked when you open the app or tap Sync.</key>
+	<string>Offline-Werkzeuge funktionieren ohne Konto. Geteilte Teams benötigen iCloud; die Apple-Anmeldung identifiziert dein Chatprofil. Änderungen werden beim Öffnen oder Synchronisieren geprüft.</string>
+	<key>Only final protocols count toward standings. Player goals are recorded separately and must match the team score.</key>
+	<string>Nur Endergebnisse zählen für die Tabelle. Spielertore werden getrennt erfasst und müssen zum Teamergebnis passen.</string>
+	<key>Only the organizer can change this.</key>
+	<string>Nur der Organisator kann dies ändern.</string>
+	<key>Only the organizer can invite participants.</key>
+	<string>Nur der Organisator kann Teilnehmer einladen.</string>
+	<key>Open in Maps</key>
+	<string>In Karten öffnen</string>
+	<key>Opponent</key>
+	<string>Gegner</string>
+	<key>Opponent confirmed</key>
+	<string>Gegner bestätigt</string>
+	<key>Opponents</key>
+	<string>Gegner</string>
+	<key>Organizer</key>
+	<string>Organisator</string>
+	<key>Organizer key is missing on this device. Restore keys before syncing.</key>
+	<string>Der Organisatorschlüssel fehlt. Stelle Schlüssel vor der Synchronisierung wieder her.</string>
+	<key>Organizer key unavailable.</key>
+	<string>Organisatorschlüssel nicht verfügbar.</string>
+	<key>Organizer keys backed up or restored in private iCloud.</key>
+	<string>Organisatorschlüssel in privatem iCloud gesichert oder wiederhergestellt.</string>
+	<key>Organizer protocol</key>
+	<string>Organisatorprotokoll</string>
+	<key>Organizer review</key>
+	<string>Prüfung durch Organisator</string>
+	<key>P</key>
+	<string>S</string>
+	<key>Participant</key>
+	<string>Teilnehmer</string>
+	<key>Pending messages and reports are encrypted for the organizer. CloudKit transports and stores records. Apple account services use Apple's privacy terms. Location is used only to sort courts and is never sent to the team.</key>
+	<string>Offene Nachrichten und Meldungen sind für den Organisator verschlüsselt. CloudKit überträgt und speichert Datensätze. Für Apple-Dienste gelten Apples Datenschutzbedingungen. Der Standort sortiert nur Plätze und wird nie ans Team gesendet.</string>
+	<key>Pending organizer review.</key>
+	<string>Wartet auf Prüfung durch den Organisator.</string>
+	<key>Plan a match</key>
+	<string>Spiel planen</string>
+	<key>Played</key>
+	<string>Gespielt</string>
+	<key>Player statistics</key>
+	<string>Spielerstatistik</string>
+	<key>Players</key>
+	<string>Spieler</string>
+	<key>Position</key>
+	<string>Position</string>
+	<key>Privacy &amp; community rules</key>
+	<string>Datenschutz und Gemeinschaftsregeln</string>
+	<key>Profile</key>
+	<string>Profil</string>
+	<key>Profile &amp; privacy</key>
+	<string>Profil und Datenschutz</string>
+	<key>Profile and device data deleted.</key>
+	<string>Profil und Gerätedaten gelöscht.</string>
+	<key>Pts</key>
+	<string>Pkt</string>
+	<key>Queued for organizer review. Open sync to send.</key>
+	<string>Zur Prüfung vorgemerkt. Synchronisiere zum Senden.</string>
+	<key>RSVP</key>
+	<string>Teilnahme</string>
+	<key>Record goal</key>
+	<string>Tor eintragen</string>
+	<key>Recovered the last local backup.</key>
+	<string>Letzte lokale Sicherung wiederhergestellt.</string>
+	<key>Reject</key>
+	<string>Ablehnen</string>
+	<key>Reminders</key>
+	<string>Erinnerungen</string>
+	<key>Removed player</key>
+	<string>Entfernter Spieler</string>
+	<key>Report</key>
+	<string>Melden</string>
+	<key>Report saved for the organizer. This author is hidden on your device.</key>
+	<string>Meldung für den Organisator gespeichert. Der Autor ist auf deinem Gerät ausgeblendet.</string>
+	<key>Request a place in the squad</key>
+	<string>Platz im Kader anfragen</string>
+	<key>Responses saved; sync again to share</key>
+	<string>Antworten gespeichert; zum Teilen erneut synchronisieren</string>
+	<key>Save</key>
+	<string>Speichern</string>
+	<key>Save your attendance locally. It syncs when you open Bora Jogar.</key>
+	<string>Speichere deine Teilnahme lokal. Sie wird beim Öffnen von Bora Jogar synchronisiert.</string>
+	<key>Saved locally</key>
+	<string>Lokal gespeichert</string>
+	<key>Saved opponents</key>
+	<string>Gespeicherte Gegner</string>
+	<key>Scheduled</key>
+	<string>Geplant</string>
+	<key>Scorer</key>
+	<string>Torschütze</string>
+	<key>Search by city instead.</key>
+	<string>Suche nach einer Stadt.</string>
+	<key>Search city or court</key>
+	<string>Stadt oder Platz suchen</string>
+	<key>Season</key>
+	<string>Saison</string>
+	<key>Season name</key>
+	<string>Saisonname</string>
+	<key>Selected</key>
+	<string>Ausgewählt</string>
+	<key>Send for review</key>
+	<string>Zur Prüfung senden</string>
+	<key>Shirt number</key>
+	<string>Trikotnummer</string>
+	<key>Sign in to iCloud in Settings to collaborate. Your local data is safe.</key>
+	<string>Melde dich in den Einstellungen bei iCloud an. Deine lokalen Daten bleiben sicher.</string>
+	<key>Sign in with Apple to send team messages.</key>
+	<string>Melde dich mit Apple an, um Teamnachrichten zu senden.</string>
+	<key>Signed in with Apple</key>
+	<string>Mit Apple angemeldet</string>
+	<key>Sorted by approximate distance.</key>
+	<string>Nach ungefährer Entfernung sortiert.</string>
+	<key>Squad</key>
+	<string>Kader</string>
+	<key>Standings</key>
+	<string>Tabelle</string>
+	<key>Start kickoff countdown</key>
+	<string>Anstoß-Countdown starten</string>
+	<key>Start the countdown within 8 hours of kickoff.</key>
+	<string>Starte den Countdown innerhalb von 8 Stunden vor dem Anstoß.</string>
+	<key>Sync could not finish. Unsynced changes remain on this device.</key>
+	<string>Synchronisierung nicht abgeschlossen. Ungesendete Änderungen bleiben auf diesem Gerät.</string>
+	<key>Sync now</key>
+	<string>Jetzt synchronisieren</string>
+	<key>Sync team</key>
+	<string>Team synchronisieren</string>
+	<key>Sync unavailable</key>
+	<string>Synchronisierung nicht verfügbar</string>
+	<key>Synced on this device</key>
+	<string>Auf diesem Gerät synchronisiert</string>
+	<key>Team</key>
+	<string>Team</string>
+	<key>Team chat</key>
+	<string>Teamchat</string>
+	<key>Team name</key>
+	<string>Teamname</string>
+	<key>Team scores, your next kickoff and the season table, from your device.</key>
+	<string>Teamergebnisse, nächster Anstoß und Saisontabelle von deinem Gerät.</string>
+	<key>Team storage is full. Export data and start a new team.</key>
+	<string>Der Teamspeicher ist voll. Exportiere Daten und erstelle ein neues Team.</string>
+	<key>Teams</key>
+	<string>Teams</string>
+	<key>Teams are added to the table when fixtures are created in this season.</key>
+	<string>Teams werden beim Erstellen von Saisonspielen zur Tabelle hinzugefügt.</string>
+	<key>The iCloud account changed. Export local data before deleting your profile and signing in again.</key>
+	<string>Das iCloud-Konto wurde geändert. Exportiere lokale Daten, bevor du das Profil löschst und dich erneut anmeldest.</string>
+	<key>The next game starts here.</key>
+	<string>Das nächste Spiel beginnt hier.</string>
+	<key>This invitation has no team data.</key>
+	<string>Diese Einladung enthält keine Teamdaten.</string>
+	<key>This is a reference listing, not a reservation service. Check the venue before traveling.</key>
+	<string>Dies ist ein Verzeichniseintrag, kein Reservierungsdienst. Prüfe den Platz vor der Anreise.</string>
+	<key>This team changed on another device. Choose which version to keep.</key>
+	<string>Dieses Team wurde auf einem anderen Gerät geändert. Wähle die Version, die bleiben soll.</string>
+	<key>Track a season</key>
+	<string>Saison verfolgen</string>
+	<key>Unavailable</key>
+	<string>Nicht verfügbar</string>
+	<key>Unhide authors on this device</key>
+	<string>Autoren auf diesem Gerät einblenden</string>
+	<key>Updated</key>
+	<string>Aktualisiert</string>
+	<key>Use cloud version</key>
+	<string>iCloud-Version verwenden</string>
+	<key>Venue source</key>
+	<string>Platzquelle</string>
+	<key>W</key>
+	<string>S</string>
+	<key>You are the organizer. Create matches, approve chat and invite players when you're ready.</key>
+	<string>Du bist der Organisator. Erstelle Spiele, prüfe Nachrichten und lade Spieler ein.</string>
+	<key>Your attendance</key>
+	<string>Deine Teilnahme</string>
+	<key>Your data</key>
+	<string>Deine Daten</string>
+	<key>Your name</key>
+	<string>Dein Name</string>
+	<key>Your next result starts on the pitch.</key>
+	<string>Dein nächstes Ergebnis beginnt auf dem Platz.</string>
+	<key>Your participation is blocked by the organizer.</key>
+	<string>Deine Teilnahme wurde vom Organisator gesperrt.</string>
+	<key>Your squad, your court, your next match. All in one place, even offline.</key>
+	<string>Dein Kader, dein Platz, dein nächstes Spiel. Alles an einem Ort, auch offline.</string>
+	<key>Your team</key>
+	<string>Dein Team</string>
+	<key>appearances</key>
+	<string>Einsätze</string>
+	<key>assists</key>
+	<string>Vorlagen</string>
+	<key>goals</key>
+	<string>Tore</string>
+	<key>going</key>
+	<string>dabei</string>
+	<key>iCloud collaboration</key>
+	<string>iCloud-Zusammenarbeit</string>
+	<key>played</key>
+	<string>gespielt</string>
+	<key>requests waiting to sync</key>
+	<string>Anfragen warten auf Synchronisierung</string>
+	<key>wins</key>
+	<string>Siege</string>
+</dict>
+</plist>

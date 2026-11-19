@@ -1,0 +1,80 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "1668A2A0-C601-406D-A391-50AAC2FE35A8",
+        "deviceName" : "GF isolated manual-qa a84ba10bff7f49f1a92ebe27cd98361d iPad Pro 13-inch (M5)",
+        "exportedFileName" : "A98E502C-205D-4C38-B111-58172C92DB2C.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "08-reference-after-profile-deletion_0_FB41A519-05DD-46C0-A94E-EB10D54932EE.png",
+        "timestamp" : 1794755423.069
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "1668A2A0-C601-406D-A391-50AAC2FE35A8",
+        "deviceName" : "GF isolated manual-qa a84ba10bff7f49f1a92ebe27cd98361d iPad Pro 13-inch (M5)",
+        "exportedFileName" : "6412EF46-20F7-4DAA-B988-4CCF700DEE42.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "07-reviewed-chat_0_48E63DEC-5E56-4F8A-AFD4-68D1839D0A37.png",
+        "timestamp" : 1794755401.368
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "1668A2A0-C601-406D-A391-50AAC2FE35A8",
+        "deviceName" : "GF isolated manual-qa a84ba10bff7f49f1a92ebe27cd98361d iPad Pro 13-inch (M5)",
+        "exportedFileName" : "112F73AC-BAA3-49D6-A45F-196E2D37BEDC.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "06-restored_0_7C90467D-BC3B-48D4-A978-FE4DEDD5BCBE.png",
+        "timestamp" : 1794755390.129
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "1668A2A0-C601-406D-A391-50AAC2FE35A8",
+        "deviceName" : "GF isolated manual-qa a84ba10bff7f49f1a92ebe27cd98361d iPad Pro 13-inch (M5)",
+        "exportedFileName" : "F9E0E713-69D4-4842-8C79-8755327DCA50.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "05-matchday_0_F9104416-2FF3-48A6-AF99-0A6122D1C10C.png",
+        "timestamp" : 1794755384.076
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "1668A2A0-C601-406D-A391-50AAC2FE35A8",
+        "deviceName" : "GF isolated manual-qa a84ba10bff7f49f1a92ebe27cd98361d iPad Pro 13-inch (M5)",
+        "exportedFileName" : "D453155F-735A-44B3-8E82-89FDE6A36DF1.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "04-directory_0_1CFE44C0-CA75-4716-B512-DA21EF83E7CE.png",
+        "timestamp" : 1794755370.622
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "1668A2A0-C601-406D-A391-50AAC2FE35A8",
+        "deviceName" : "GF isolated manual-qa a84ba10bff7f49f1a92ebe27cd98361d iPad Pro 13-inch (M5)",
+        "exportedFileName" : "960C0CC7-0DAF-4C72-8FFA-ACB1829183BF.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "03-season_0_625DBB75-E7BC-48CE-818C-E01E4C6A3587.png",
+        "timestamp" : 1794755367.622
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "1668A2A0-C601-406D-A391-50AAC2FE35A8",
+        "deviceName" : "GF isolated manual-qa a84ba10bff7f49f1a92ebe27cd98361d iPad Pro 13-inch (M5)",
+        "exportedFileName" : "04C382D6-285D-4FA9-9CD2-0AC8F896BD5A.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "02-squad_0_00C5950A-0D97-488C-9938-3AB6AC087BC6.png",
+        "timestamp" : 1794755361.832
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "1668A2A0-C601-406D-A391-50AAC2FE35A8",
+        "deviceName" : "GF isolated manual-qa a84ba10bff7f49f1a92ebe27cd98361d iPad Pro 13-inch (M5)",
+        "exportedFileName" : "0C193261-7936-457B-BA9A-2C3C5B45F7D2.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "01-first-launch_0_896574A2-A90A-4AD3-B2B3-7995FAB5757B.png",
+        "timestamp" : 1794755351.036
+      }
+    ],
+    "testIdentifier" : "u73/test10OfflineJourney()",
+    "testIdentifierURL" : "test://com.apple.xcode/BoraJogar/FieldProof73/u73/test10OfflineJourney"
+  }
+]

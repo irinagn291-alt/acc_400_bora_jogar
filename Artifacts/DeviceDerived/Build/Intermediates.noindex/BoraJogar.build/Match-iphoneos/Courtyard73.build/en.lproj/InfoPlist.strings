@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Send a team fixture to your calendar when you choose Add to Calendar.</string>
+	<key>NSCalendarsWriteOnlyAccessUsageDescription</key>
+	<string>Save the football fixture you choose without reading your other calendar events.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Sort the bundled court directory by your approximate distance. You can also search by city.</string>
+</dict>
+</plist>
