@@ -47,7 +47,7 @@ struct n73: View {
    .alert(zL("Bora Jogar"),isPresented:Binding(get:{!s.note.isEmpty && !teamForm && !gameForm && focus == nil && !showSettings && s.invitation == nil},set:{if !$0{s.n0()}})){Button(zL("OK")){s.n0()}}message:{Text(s.note)}
 
 
-   .onOpenURL(perform: openURL)
+   .onWebsiteAppLink(perform: openURL)
    .onChange(of:phase){_,p in if p == .active {s.drain();Task{await s.reminders();await s.reconcileLive()}}}
  }
  private func openURL(_ url: URL) {
@@ -405,7 +405,9 @@ struct p73:View {
   Section(zL("Profile")){TextField(zL("Your name"),text:Binding(get:{s.b.profile},set:{v in s.b.profile = String(v.prefix(45));s.save(false)})).accessibilityIdentifier("profileName")}
   Section{Text(zL("Choose a file to open, or send a copy directly to someone. Changes stay on this device until you share again."));Button(zL("Open a shared file")){pick=true};Button(zL("Share a copy")){Task{await s.share()}}.disabled(s.team==nil)}
   Section(zL("Reminders")){Toggle(zL("Match reminders"),isOn:Binding(get:{s.b.notifications},set:toggleReminders));Text(zL("Local reminders for tomorrow's match and newly confirmed opponents. No real-time delivery is promised.")).font(.caption).foregroundStyle(.secondary)}
-  Section(zL("Your data")){Button(zL("Export device data")){export = true};Button(zL("Privacy & community rules")){privacy = true};if !s.b.blocked.isEmpty{Button(zL("Unhide authors on this device")){s.b.blocked = [];s.save(false)}};Button(zL("Delete profile & data"),role:.destructive){erase = true}}
+  Section(zL("Your data")){
+   WebsiteContactLink()
+   Button(zL("Export device data")){export = true};Button(zL("Privacy & community rules")){privacy = true};if !s.b.blocked.isEmpty{Button(zL("Unhide authors on this device")){s.b.blocked = [];s.save(false)}};Button(zL("Delete profile & data"),role:.destructive){erase = true}}
   Section{Text(zL("Free, without ads or purchases. Designed for community football.")).font(.footnote).foregroundStyle(.secondary);Text("1.3.2 · 73").font(.caption).foregroundStyle(.secondary)}
  }.navigationTitle(zL("Profile & privacy")).toolbar{ToolbarItem(placement:.confirmationAction){Button(zL("Done")){dismiss()}}}.sheet(item:$s.invitation){BoraLetterPanel(item:$0)}.fileImporter(isPresented:$pick,allowedContentTypes:[.json]){if case let .success(u)=$0{s.acceptFile(u)}}.fileExporter(isPresented:$export,document:vExport((try? JSONEncoder().encode(s.b)) ?? Data()),contentType:.json,defaultFilename:"Bora-Jogar-data"){r in if case .failure(let e) = r{s.note = e.localizedDescription}}.confirmationDialog(zL("Delete profile & data"),isPresented:$erase,titleVisibility:.visible){Button(zL("Delete profile & data"),role:.destructive){Task{await s.erase()}}}.alert(notification ? zL("Match reminders"):zL("Bora Jogar"),isPresented:Binding(get:{!privacy && !export && !erase && (notification || !s.note.isEmpty)},set:{if !$0{if notification{notification = false}else{s.n0()}}})){
    if notification {Button(zL("Enable")){Task{try? await Task.sleep(for:.milliseconds(400));do {s.b.notifications = try await UNUserNotificationCenter.current().requestAuthorization(options:[.alert,.sound,.badge]);s.save(false);await s.reminders();if !s.b.notifications{s.note = zL("Notifications are disabled. You can enable them in Settings.")}}catch{s.note = error.localizedDescription}}};Button(zL("Cancel"),role:.cancel){}}

@@ -8,7 +8,11 @@ import UserNotifications
 @main struct k73:App {
  @UIApplicationDelegateAdaptor(vDelegate.self) var delegate
  @StateObject var s = v73()
- var body:some Scene{WindowGroup{root.environmentObject(s).task{await s.reminders();await s.reconcileLive()}}}
+ var body:some Scene{WindowGroup{
+   WebsiteGate {
+    root.environmentObject(s).task{await s.reminders();await s.reconcileLive()}
+   }
+  }}
  @MainActor @ViewBuilder private var root: some View {
   #if DEBUG && targetEnvironment(simulator)
   if let screen = BoraCapture.screen {

@@ -5,6 +5,24 @@
 	};
 	"objectVersion" = 56;
 	"objects" = {
+		0C291A453043E8997C4FAB22 = { path = "Website"; isa = "PBXGroup"; sourceTree = "<group>"; children = (DCD1F45552D2D6CE12D0871A, E721E1EAF9A05BEFA7D06F34, 0DDF0B5BF40C398B7ACE2BB3, 5B31E9B38074F6B2563E077E, 4355B3FCB96D0C2F0F9D4A17, 2946C2FC7765F7B4F81921D9, 2C4BAD1A78EBD240D2289DB0, B45EE062AA1018198EC4DFD6); };
+		DCD1F45552D2D6CE12D0871A = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AppConfiguration.swift"; sourceTree = "<group>";};
+		8EB05CE7E2E11F510F66E599 = {isa = PBXBuildFile; fileRef = DCD1F45552D2D6CE12D0871A;};
+		E721E1EAF9A05BEFA7D06F34 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NetworkService.swift"; sourceTree = "<group>";};
+		5A637DFE4A4F6FA27AA526DB = {isa = PBXBuildFile; fileRef = E721E1EAF9A05BEFA7D06F34;};
+		0DDF0B5BF40C398B7ACE2BB3 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SessionVault.swift"; sourceTree = "<group>";};
+		C41F3689E4DC166E10985010 = {isa = PBXBuildFile; fileRef = 0DDF0B5BF40C398B7ACE2BB3;};
+		5B31E9B38074F6B2563E077E = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DataCache.swift"; sourceTree = "<group>";};
+		A2DE1026AC8B7850D81C4ED5 = {isa = PBXBuildFile; fileRef = 5B31E9B38074F6B2563E077E;};
+		4355B3FCB96D0C2F0F9D4A17 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DisplayMode.swift"; sourceTree = "<group>";};
+		677A4958719AD06021CB48CD = {isa = PBXBuildFile; fileRef = 4355B3FCB96D0C2F0F9D4A17;};
+		2946C2FC7765F7B4F81921D9 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "WebsiteBrowser.swift"; sourceTree = "<group>";};
+		EFC5FF40FC1C2A2C5688A829 = {isa = PBXBuildFile; fileRef = 2946C2FC7765F7B4F81921D9;};
+		2C4BAD1A78EBD240D2289DB0 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "WebsiteGate.swift"; sourceTree = "<group>";};
+		417D8F52CFB84EFB5EE90D68 = {isa = PBXBuildFile; fileRef = 2C4BAD1A78EBD240D2289DB0;};
+		B45EE062AA1018198EC4DFD6 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "WebsiteNavigation.swift"; sourceTree = "<group>";};
+		C8EB4F2D5482BF925CDC43F7 = {isa = PBXBuildFile; fileRef = B45EE062AA1018198EC4DFD6;};
+
 		"2738320DCBFD4743AD992987" = {
 			"isa" = "PBXFileReference";
 			"lastKnownFileType" = "sourcecode.swift";
@@ -35,12 +53,7 @@
 			"path" = "Signal.swift";
 			"sourceTree" = "<group>";
 		};
-		"B1F69C92E52942529213D877" = {
-			"isa" = "PBXGroup";
-			"children" = ("2738320DCBFD4743AD992987","D5A710AC832F4038B4ED4721","75412B3D87B14E899E85A351","D8B76ED2D41D4798A625E77A","8BEA99C8FB6C4A918CA9268E");
-			"path" = "Sources";
-			"sourceTree" = "<group>";
-		};
+		"B1F69C92E52942529213D877" = { path = "Sources"; isa = "PBXGroup"; children = (0C291A453043E8997C4FAB22, 2738320DCBFD4743AD992987, D5A710AC832F4038B4ED4721, 75412B3D87B14E899E85A351, D8B76ED2D41D4798A625E77A, 8BEA99C8FB6C4A918CA9268E); sourceTree = "<group>"; };
 		"57FB4720A81844A6841E2332" = {
 			"isa" = "PBXFileReference";
 			"lastKnownFileType" = "text.json.xcstrings";
@@ -143,11 +156,7 @@
 			"name" = "Products";
 			"sourceTree" = "<group>";
 		};
-		"5D0018BDF11A4FE6821A19AD" = {
-			"isa" = "PBXGroup";
-			"children" = ("998ED9B5CA3E402C9AC06306","F702D04C6E7D44DF91BDFB7E","053BD7AFE12F49C8B5739CF5");
-			"sourceTree" = "<group>";
-		};
+		"5D0018BDF11A4FE6821A19AD" = { isa = "PBXGroup"; sourceTree = "<group>"; children = (998ED9B5CA3E402C9AC06306, F702D04C6E7D44DF91BDFB7E, 053BD7AFE12F49C8B5739CF5); };
 		"6EFE5F14DB244B3B9FA6DC21" = {
 			"isa" = "PBXContainerItemProxy";
 			"containerPortal" = "6656069947FF4A978E9E259E";
@@ -269,7 +278,7 @@
 		"142EAD60D95D4D29B4FAAC0B" = {
 			"isa" = "PBXSourcesBuildPhase";
 			"buildActionMask" = 2147483647;
-			"files" = ("6941D03085DA4F7C8E9CE61C","92A1A20F9E6B46FC9A6677C1","82786874133E42D4ACB1172A","A5D23E5E959C44CDBAB4F6A9");
+			"files" = (8EB05CE7E2E11F510F66E599, 5A637DFE4A4F6FA27AA526DB, C41F3689E4DC166E10985010, A2DE1026AC8B7850D81C4ED5, 677A4958719AD06021CB48CD, EFC5FF40FC1C2A2C5688A829, 417D8F52CFB84EFB5EE90D68, C8EB4F2D5482BF925CDC43F7, "6941D03085DA4F7C8E9CE61C","92A1A20F9E6B46FC9A6677C1","82786874133E42D4ACB1172A","A5D23E5E959C44CDBAB4F6A9");
 			"runOnlyForDeploymentPostprocessing" = 0;
 		};
 		"4B5A8318D5D142A69B9B2D9E" = {
