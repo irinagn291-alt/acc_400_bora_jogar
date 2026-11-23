@@ -1,1 +1,1 @@
-football,squad,fixtures,kickoff,lineup,standings,goals,assists,attendance,venues
+pickup soccer,organize football match,team organizer,squad,local football,match calendar
